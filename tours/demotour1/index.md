@@ -1,5 +1,6 @@
 ---
 group: tour
-tour: demotour 2
+tour: demotour 1
+layout: page
 ---
 index hello world
