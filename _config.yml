@@ -31,3 +31,10 @@ production_url_theme : http://www.einkoffervollerreisen.de/travelogue
 
 github_repo_url: https://github.com/robertmuehsig/EinKofferVollerReisen/
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
