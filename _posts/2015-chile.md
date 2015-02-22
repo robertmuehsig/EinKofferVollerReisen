@@ -1,6 +1,5 @@
 ---
 layout: default
-year: 2015
 title: Chile
 ---
 
