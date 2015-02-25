@@ -1,12 +1,36 @@
 ---
 layout: default
-title: Ups... 404 - Sorry! 
+title: Ups... da ist was schief gelaufen - Sorry! 
 permalink: /404.html
+style: "index-contact p404"
 ---
 
+<div id="container" class="container">
+	<a class="cd-primary-nav-trigger" id="trigger-menu" href="#0">
+	  	<span class="cd-menu-icon"></span>
+	</a>
 
-Sorry this page does not exist. 
-<br>
-If you are pretty sure it should be here please <b><a href='{{ site.github_repo_url }}issues/new'>open an issue on GitHub</a></b> and please add the missing page-url in the title.
-<br><br>
-<b>Thanks for helping us!</b>
+	<!-- BOF: Fancy Search Form (content imported via jQuery: from search-form.html) -->
+	<div id="travelogue-search" class="travelogue-search">
+		<form action="search.html">
+			<input class="travelogue-search-input" placeholder="Enter your search term..." type="text" value="" name="search" id="search">
+			<input class="travelogue-search-submit" type="submit" value="">
+			<span class="travelogue-icon-search fa fa-search"></span>
+		</form>
+	</div>
+	<!-- EOF: Fancy Search Form (content imported via jQuery: from search-form.html) -->
+
+	<header class="header">
+		<div class="bg-img">
+			<img class="async-image hide" data-src="http://placehold.it/1280x720/7f8c8d/ffffff" alt="" />
+			<div class="overlay hidden" id="overlay"></div>
+		</div>
+		<div class="title hidden" id="title">
+			<h1><span>404</span></h1>
+			<p class="subline">
+				Wha... hier ist was schief gelaufen. Der Link scheint nicht mehr aktuell zu sein. Um uns zu helfen könnt ihr uns <b><a href='{{ site.github_repo_url }}issues/new'>hier</a></b> ein Fehlerbericht erstellen.</br> Besten Dank für die Mithilfe!
+			</p>
+		</div>
+	</header>
+</div>
+
