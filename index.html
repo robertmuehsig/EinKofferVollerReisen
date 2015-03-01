@@ -23,14 +23,14 @@ style: "homepage index-home index"
 			<article class="content">
 				<div class="">
 					<div class="grid">
-						{% assign landingPagePosts = site.posts | where: "landingPage", "true" %}
+						{% assign landingPagePosts = site.posts | where: "type", "landingPage" %}
 						{% for post in landingPagePosts %}
 						<figure class="single-item-effect big">
 							<img src="http://placehold.it/965x350/7f8c8d/ffffff" alt="img01"/>
 							<figcaption>
 								<div class="figcaption-border">
-									<h2>{post.title} <span>live</span></h2>
-									<p>{post.subtitle}</p>
+									<h2>{{post.title}} <span>live</span></h2>
+									<p>{{post.subtitle}}</p>
 									<a href="single.html">View more</a>
 									<div class="figure-overlay"></div>
 								</div>
