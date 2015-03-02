@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Atacama Wüste: Erkundungstour Süd
+title: "Atacama Wüste: Erkundungstour Süd"
 category: 2015-Chile
 ---
 Der Erste vollständige Tag ist angebrochen. Die Nacht war relativ ruhig und dank der bemerkenswert kurzen Zeitverschiebung von 4 Stunden hielt sich auch der Jet Lag in Grenzen.  

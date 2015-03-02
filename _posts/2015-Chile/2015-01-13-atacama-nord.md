@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Atacama Wüste: Erkundungstour Nord
+title: "Atacama Wüste: Erkundungstour Nord"
 category: 2015-Chile
 ---
 Letzter wirklicher Tag in der Wüste. Da wir gestern den „Süden“ von San Pedro de Atacama erkundet hatten ging es heute in den Norden. Eigentliches Ziel war dabei der Geysir El Tatio. Nach dem Volltanken (mit Service!) ging es dann los… aber wohin eigentlich genau? Das Navi kannte jedenfalls nicht die Antwort. Auch die Karte war ziemlich vage was das anging und die Beschilderung hier ist nicht vorhanden. 
