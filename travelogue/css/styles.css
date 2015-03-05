@@ -1713,30 +1713,7 @@ body .cd-primary-nav-trigger:before {
     -moz-animation: travelogue-pulse 2s infinite;
     animation: travelogue-pulse 2s infinite;
 }
-.travelogue-single-point:first-child {
-    bottom: 49%;
-    right: 48%;
-}
-.travelogue-single-point:nth-child(2) {
-    bottom: 25%;
-    right: 60%;
-}
-.travelogue-single-point:nth-child(3) {
-    left: 26%;
-    top: 35%;
-}
-.travelogue-single-point:nth-child(4) {
-    right: 35%;
-    top: 31%;
-}
-.travelogue-single-point:nth-child(5) {
-    right: 29%;
-    top: 73%;
-}
-.travelogue-single-point:nth-child(6) {
-    left: 40%;
-    top: 15%;
-}
+
 .travelogue-single-point.is-open > a {
     background-color: #475f74;
 }
