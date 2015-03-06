@@ -47,10 +47,11 @@ style: "homepage index-home index"
 				        <ul>
 						{% for post in landingPagePosts %}
 						<li class="travelogue-single-point" style="top: {{post.map-margin-top}}; left: {{post.map-margin-left}}">
-				                <a class="travelogue-img-replace" href="{{post.url}}">Mehr</a>
+				                <a class="travelogue-img-replace" href="#0">Mehr</a>
 
 				                <div class="travelogue-more-info travelogue-left">
-				                    <h2>{{post.title}}</h2>
+									
+				                    <h2><a href="{{post.url}}">{{post.title}}</a></h2>
 
 				                    <p>{{post.subtitle}}</p><img src="{{post.map-image}}"> <a href="#0" class="travelogue-close-info travelogue-img-replace">Schliessen</a>
 				                </div>
