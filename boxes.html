@@ -1,0 +1,66 @@
+---
+layout: default
+style: "homepage index-home index"
+---
+<div id="container" class="container intro-effect-grid">
+
+			<a class="cd-primary-nav-trigger" id="trigger-menu" href="#0">
+			  	<span class="cd-menu-icon"></span>
+			</a>
+
+			<header class="header">
+				<div class="bg-img">
+					<img class="async-image hide" src="#" data-src="http://placehold.it/1280x720/7f8c8d/ffffff" alt="" />
+				</div>
+				<div class="title hidden" id="title">
+					<h1>{{ page.title }}</h1>
+				</div>
+				<div class="overlay hidden" id="overlay"></div>
+			</header>
+
+			<button class="trigger scroll-down-pulse"><span>Trigger</span></button>
+
+			<article class="content">
+				<div class="">
+					<div class="grid">
+						{% assign landingPagePosts = site.posts | where: "type", "landingPage" %}
+						{% for post in landingPagePosts %}
+						<figure class="single-item-effect big">
+							<img src="http://placehold.it/965x350/7f8c8d/ffffff" alt="img01"/>
+							<figcaption>
+								<div class="figcaption-border">
+									<h2>{{post.title}} <span>live</span></h2>
+									<p>{{post.subtitle}}</p>
+									<a href="single.html">View more</a>
+									<div class="figure-overlay"></div>
+								</div>
+							</figcaption>												
+						</figure>
+						{% endfor %}
+					</div>
+				</div>
+				<div class="travelogue-product travelogue-container">
+				    <div class="travelogue-product-wrapper">
+				    	<!-- Map image -->
+				        <img src="{{ site.production_url_theme }}/img/map.jpg">
+
+				        <ul>
+						{% for post in landingPagePosts %}
+						<li class="travelogue-single-point" style="top: {{post.map-margin-top}}; left: {{post.map-margin-left}}">
+				                <a class="travelogue-img-replace" href="#0">Mehr</a>
+
+				                <div class="travelogue-more-info travelogue-left">
+									
+				                    <h2><a href="{{post.url}}">{{post.title}}</a></h2>
+
+				                    <p>{{post.subtitle}}</p><img src="{{post.map-image}}"> <a href="#0" class="travelogue-close-info travelogue-img-replace">Schliessen</a>
+				                </div>
+				            </li>
+						{% endfor %}
+				        </ul>
+				    </div>
+				</div>
+			</article>
+
+
+		</div>

@@ -11,8 +11,8 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Ein Koffer Voller Reisen
-tagline: Development on the Microsoft Stack
+title : Ein Koffer voller Reisen
+subtitle: Liza & Robert on Tour
 author :
   name : Robert Mühsig
   email : contact@codeinside.eu
