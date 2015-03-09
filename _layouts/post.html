@@ -10,7 +10,7 @@ layout: default
 
 			<header class="header">
 				<div class="bg-img">
-					<img  class="async-image hide" src="#" data-src="http://placehold.it/1280x720/7f8c8d/ffffff" alt="" />
+					<img  class="async-image hide" src="#" data-src="{{ page.header-image }}" alt="" />
 					<div class="overlay hidden" id="overlay"></div>
 				</div>
 				<div class="title hidden" id="title">					
@@ -29,7 +29,7 @@ layout: default
 			<div class="divider_30"></div>
 			<div class="article-footer">
 					<p>
-						by <a href="author.html" class="hover-effect"><strong>Ferdinand Magellan</strong></a> &mdash; Posted on May 21, 2014, in <a href="category.html" data-href="Animals">Animals</a> and tagged <a href="tags.html"  data-href="Animals">Animals</a>, <a href=""  data-href="Nature">Nature</a>
+						von <a href="author.html" class="hover-effect"><strong>{{ site.author.name }}</strong></a> &mdash; Geschrieben am {{ page.date | date_to_long_string }}.
 					</p>
 					
 					<div class="clearfix"></div>
