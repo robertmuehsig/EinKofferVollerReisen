@@ -31,12 +31,12 @@ style: "index-single"
 						{% assign landingPagePosts = site.posts | where: "type", "landingPage" %}
 						{% for post in landingPagePosts %}
 						<figure class="single-item-effect big">
-							<img src="http://placehold.it/965x350/7f8c8d/ffffff" alt="img01"/>
+							<img src="{{post.preview-image}}" alt="img01"/>
 							<figcaption>
 								<div class="figcaption-border">
 									<h2>{{post.title}} <span>{{ post.date | date: '%Y'  }} </span></h2>
 									<p>{{post.subtitle}}</p>
-									<a href="single.html">View more</a>
+									<a href="{{post.url}}">Mehr</a>
 									<div class="figure-overlay"></div>
 								</div>
 							</figcaption>												
@@ -47,8 +47,9 @@ style: "index-single"
 					<div>
 						<h2><span class="green">Die </span><span class="black">Reisekarte:</span></h2>
 						<p>Auf der Karte sind alle (wesentlichen) Reiseorte markiert, welche wir beide gemeinsam bereisst:</p>
+						
 				</div>
-			
+				
 				<div class="travelogue-product travelogue-container">
 				    <div class="travelogue-product-wrapper">
 				    	<!-- Map image -->
@@ -63,14 +64,14 @@ style: "index-single"
 									
 				                    <h2><a href="{{post.url}}">{{post.title}}</a></h2>
 
-				                    <p>{{post.subtitle}}</p><img src="{{post.map-image}}"> <a href="#0" class="travelogue-close-info travelogue-img-replace">Schliessen</a>
+				                    <p>{{post.subtitle}}</p><img src="{{post.preview-image}}"> <a href="#0" class="travelogue-close-info travelogue-img-replace">Schliessen</a>
 				                </div>
 				            </li>
 						{% endfor %}
 				        </ul>
 				    </div>
 				</div>
-				
+				<div class="divider_30"></div>
 				<div>
 					<h1 class="text-left"><span class="black">Let me take you </span><span class="green">to the mountain</span></h1>
 					<div class="author_skills">
