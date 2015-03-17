@@ -19,8 +19,30 @@
 
 		{{ content }}
 
-		<!-- ### Sidebar Menu ##################################################################### -->
-		<div id="st-container" class="st-container"></div>
+	<!-- ### Sidebar Menu ##################################################################### -->
+	<div id="st-container" class="st-container st-effect-1">
+		<div class="st-menu st-effect-1">
+			<div class="fullwidth site-infos">
+				<div class="logo">
+					<a href="index.html">
+						<img src="{{ site.production_url_theme }}/img/travelogue-logo.png" alt="Travelogue">
+					</a>
+				</div>
+				<h3 class="section-title">{{ site.title }}</h3>
+				<span class="section-description">{{ site.subtitle }}</span>
+			</div>
+			<nav class="fullwidth sidebar-navigation-menu">
+				<ul>
+					<li><a href="{{ site.production_url }}"><i class="fa fa-home"></i>Startseite</a></li>
+					<li><a href="{{ site.production_url }}/terms"><i class="fa fa-heart"></i>Impressum</a></li>
+				</ul>
+			</nav>
+			<div class="fullwidth bottom-links">
+				<p>2015 © www.einkoffervollerreisen.de. Creative Commons Lizenz.</p>
+			</div>
+		</div>
+	</div>
+	
 		<div id="infinitescroll"></div>
 		<!-- ### JS Scripts ##################################################################### -->
 		<script src="{{ site.production_url_theme }}/js/modernizr.custom.js"></script>
