@@ -29,7 +29,7 @@ layout: default
 			<div class="divider_30"></div>
 			<div class="article-footer">
 					<p>
-						von <a href="author.html" class="hover-effect"><strong>{{ site.author.name }}</strong></a> &mdash; Geschrieben am {{ page.date | date_to_long_string }}.
+						von <a href="/" class="hover-effect"><strong>{{ site.author.name }}</strong></a> &mdash; Geschrieben am {{ page.date | date_to_long_string }}.
 					</p>
 					
 					<div class="clearfix"></div>
@@ -42,23 +42,23 @@ layout: default
 
 			<div class="pagination grid">
 				<figure class="single-item-effect half">
-					<img src="http://placehold.it/965x350/7f8c8d/ffffff" alt="{{ page.navigation-previous-title }}"/>
+					<img src="{{ page.navigation.previous.image }}" alt="{{ page.navigation.previous.title }}"/>
 					<figcaption>
 						<div class="figcaption-border">
 							<h2><i class="fa fa-angle-left"></i> Vorherige <span>Seite</span></h2>
-							<p>{{ page.navigation-previous-title }}</p>
-							<a href="{{ page.navigation-previous-link }}">Zurück</a>
+							<p>{{ page.navigation.previous-title }}</p>
+							<a href="{{ page.navigation.previous.link }}">Zurück</a>
 							<div class="figure-overlay"></div>
 						</div>
 					</figcaption>		
 				</figure>
 				<figure class="single-item-effect half">
-					<img src="http://placehold.it/965x350/7f8c8d/ffffff" alt="img01"/>
+					<img src="{{ page.navigation.next.image }}" alt="{{ page.navigation.next.title }}"/>
 					<figcaption>
 						<div class="figcaption-border">
 							<h2>Nächste <span>Seite</span> <i class="fa fa-angle-right"></i> </h2>
-							<p>Bear hugs cheer me up</p>
-							<a href="single-bear-hugs.html">Weiter</a>
+							<p>{{ page.navigation.previous.title }}</p>
+							<a href="{{ page.navigation.previous.link }}">Weiter</a>
 							<div class="figure-overlay"></div>
 						</div>
 					</figcaption>								

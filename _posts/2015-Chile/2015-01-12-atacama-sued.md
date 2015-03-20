@@ -2,7 +2,16 @@
 layout: post
 title: "Atacama Wüste: Erkundungstour Süd"
 category: 2015-Chile
-header-image: http://placehold.it/1280x720/7f8c8d/ffffff
+header-image: "http://placehold.it/1280x720/7f8c8d/ffffff"
+navigation:
+  previous:
+    title: "10. Januar: Abreise"
+    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    link: "/2015-chile/abreise"
+  next:
+    title: "13. Januar: Atacama Wüste - Norden"
+    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    link: "/2015-chile/atacama-nord"
 ---
 Der Erste vollständige Tag ist angebrochen. Die Nacht war relativ ruhig und dank der bemerkenswert kurzen Zeitverschiebung von 4 Stunden hielt sich auch der Jet Lag in Grenzen.  
 Los ging es also mit dem Frühstück in unserer Lodge, welches so ziemlich einem mitteleuropäischen Frühstück glich. Einzig die Verständigung hat uns etwas nachdenklich gestimmt – die gute Frau die für das Frühstück eingeteilt war sprach halt nur spanisch. Aber da wir einfach fleissig nickten und „Si“-sagten bekamen wir ein Rührei – so einfach geht das mit der Sprachverständigung. Die Lodge-Katzen und Hunde waren natürlich auch mit von der Partie.  

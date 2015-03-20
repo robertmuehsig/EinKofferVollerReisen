@@ -2,7 +2,16 @@
 layout: post
 title: "Atacama Wüste: Erkundungstour Nord"
 category: 2015-Chile
-header-image: http://placehold.it/1280x720/7f8c8d/ffffff
+header-image: "http://placehold.it/1280x720/7f8c8d/ffffff"
+navigation:
+  previous:
+    title: "12. Januar: Atacama Wüste - Süden"
+    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    link: "/2015-chile/atacama-sued"
+  next:
+    title: "14. Januar: Atacama Wüste - Norden"
+    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    link: "/2015-chile/atacama-nord"
 ---
 Letzter wirklicher Tag in der Wüste. Da wir gestern den „Süden“ von San Pedro de Atacama erkundet hatten ging es heute in den Norden. Eigentliches Ziel war dabei der Geysir El Tatio. Nach dem Volltanken (mit Service!) ging es dann los… aber wohin eigentlich genau? Das Navi kannte jedenfalls nicht die Antwort. Auch die Karte war ziemlich vage was das anging und die Beschilderung hier ist nicht vorhanden. 
 
