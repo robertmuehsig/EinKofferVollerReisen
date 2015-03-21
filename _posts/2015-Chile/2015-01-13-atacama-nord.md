@@ -5,11 +5,15 @@ category: 2015-Chile
 header-image: "http://placehold.it/1280x720/7f8c8d/ffffff"
 navigation:
   previous:
-    title: "12. Januar: Atacama Wüste - Süden"
+    title-small: "12. Januar"
+    title-bold: "Atacama Wüste - Süden"
+    title-full: "12. Januar: Atacama Wüste - Süden"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
     link: "/2015-chile/atacama-sued"
   next:
-    title: "14. Januar: Atacama Wüste - Norden"
+    title-small: "14. Januar"
+    title-bold: "..."
+    title-full: "14. Januar: ..."
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
     link: "/2015-chile/atacama-nord"
 ---

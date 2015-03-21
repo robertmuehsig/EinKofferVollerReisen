@@ -42,12 +42,12 @@ layout: default
 
 			<div class="pagination grid">
 				<figure class="single-item-effect half">
-					<img src="{{ page.navigation.previous.image }}" alt="{{ page.navigation.previous.title }}"/>
+					<img src="{{ page.navigation.previous.image }}" alt="{{ page.navigation.previous.title-full }}"/>
 					<figcaption>
 						<div class="figcaption-border">
-							<h2><i class="fa fa-angle-left"></i> Vorherige <span>Seite</span></h2>
-							<p>{{ page.navigation.previous-title }}</p>
-							<a href="{{ page.navigation.previous.link }}">Zurück</a>
+							<h2><i class="fa fa-angle-left"></i> {{ page.navigation.previous.title-small }} <span>{{ page.navigation.previous.title-bold }}</span></h2>
+							<p>{{ page.navigation.previous.title-full }}</p>
+							<a href="{{ page.navigation.previous.link }}">{{ page.navigation.previous.title-full }}</a>
 							<div class="figure-overlay"></div>
 						</div>
 					</figcaption>		
@@ -56,9 +56,9 @@ layout: default
 					<img src="{{ page.navigation.next.image }}" alt="{{ page.navigation.next.title }}"/>
 					<figcaption>
 						<div class="figcaption-border">
-							<h2>Nächste <span>Seite</span> <i class="fa fa-angle-right"></i> </h2>
-							<p>{{ page.navigation.previous.title }}</p>
-							<a href="{{ page.navigation.previous.link }}">Weiter</a>
+							<h2>{{ page.navigation.next.title-small }} <span>{{ page.navigation.next.title-bold }}</span> <i class="fa fa-angle-right"></i> </h2>
+							<p>{{ page.navigation.next.title-full }}</p>
+							<a href="{{ page.navigation.next.link }}">{{ page.navigation.next.title-full }}</a>
 							<div class="figure-overlay"></div>
 						</div>
 					</figcaption>								

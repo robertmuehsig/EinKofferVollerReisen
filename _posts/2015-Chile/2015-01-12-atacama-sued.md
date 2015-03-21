@@ -5,11 +5,15 @@ category: 2015-Chile
 header-image: "http://placehold.it/1280x720/7f8c8d/ffffff"
 navigation:
   previous:
-    title: "10. Januar: Abreise"
+    title-small: "12. Januar"
+    title-bold: "Abreise"
+    title-full: "10. Januar: Abreise"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
     link: "/2015-chile/abreise"
   next:
-    title: "13. Januar: Atacama Wüste - Norden"
+    title-small: "13. Januar"
+    title-bold: "Atacama Wüste - Norden"
+    title-full: "13. Januar: Atacama Wüste - Norden"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
     link: "/2015-chile/atacama-nord"
 ---
