@@ -5,25 +5,24 @@ category: 2015-Chile
 header-image: "http://placehold.it/1280x720/7f8c8d/ffffff"
 navigation:
   previous:
-    title-small: "13. Januar"
-    title-bold: "Atacama Wüste - Norden"
-    title-full: "13. Januar: Atacama Wüste - Erkundungstour Nord"
+    title-small: "14. Januar"
+    title-bold: "Puerto Montt"
+    title-full: "14. Januar: Nach Puerto Montt, der Tag des Zweifelns"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
-    link: "/2015-chile/atacama-sued"
+    link: "/2015-chile/puerto-montt"
   next:
-    title-small: "15. Januar"
-    title-bold: "..."
-    title-full: "14. Januar: ..."
+    title-small: "16. Januar"
+    title-bold: "Puerto Montt Umgebung"
+    title-full: "16. Januar: Fährenreservierung, Planänderungen und Erkundung um den See"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
-    link: "/2015-chile/atacama-nord"
+    link: "/2015-chile/puerto-montt-umgebung"
 ---
-Unser Flug ging erst gegen 13.00 Uhr, daher war die Abgabe des Mietwagens und co. recht entspannt. Von Calama ging die Reise erst nach Santiago und dann nach Puerto Montt. Wir haben uns bewusst relativ viel Puffer in Santiago gelassen (oder es gab keine günstigeren Flüge mehr… wir wissen es nicht mehr so genau), sodass wir eigentlich gegen 20.45 Uhr in Puerto Montt ankommen sollten. Hier kamen jetzt ein paar Schwierigkeiten auf uns zu – die wir aber schon bei der Buchung so geahnt hatten: 
+Aufstehen in einem komfortablen Bett, gutes Frühstück gehabt und bevor wir uns der Insel Chileo widmen wollten wir nun rausbekommen wo man die Reservierung für die Fähre von Hornopirén nach Caleta Gonzales machen kann. Das Hotelpersonal war sich unsicher und auf der Website steht eine Adresse die in das Hafengebiet von Puerto Montt führt wo man allerdings keine Tickets reservieren kann. Spanisch Kenntnisse wären hier evtl. doch wieder von Vorteil gewesen – uns konnte jedenfalls keiner sagen wo genau man die Tickets reservieren kann. Unsere Hoffnung lag nun einfach nochmal am Abend genauer auf die Website zu schauen und dass das Hotelpersonal am nächsten Tag da ja mal anrufen könnte. Da es nun schon nach Mittag war und wir noch einen weiten Weg vor uns hatten sind wir dann unverrichteter Dinge nach Chileo aufgebrochen. 
 
-Unsere Autovermietung Alamo macht offiziell ihren Schalter 21.00 Uhr zu. Dazu kommt dass wir für die Grenzüberquerung nach Argentinien eine Erlaubnis benötigen – laut Internet kann diese Erlaubnis 1 bis 2 Tage dauern und die Autovermietung kann dies erst ausfüllen wenn man vor dem Schalter steht. In Puerto Montt selber sind wir aber nur 2 Tage. Dazu kommt das wir demnächst eine Fähre buchen müssen – dies geht allerdings auch nur mit dem besagtem Auto, weil man das Kennzeichen angeben muss. 
+Die Strassen um Puerto Montt sind gut ausgebaut und es gibt sogar eine Autobahn zwischen den grösseren Städten, sodass man relativ schnell von A nach B kommt. Um nach Chileo zu gelangen muss man eine Fähre benutzen – die Fähren verkehren allerdings ständig in einem 20 bis 30 Minuten Takt. Also jedenfalls sehr häufig und erfordern keine Reservierung oder ähnliches. Abrechnet wird direkt auf dem Schiff.  
 
-Nun zu den Problemen: Unser Flug von Santiago nach Puerto Montt wurde leicht verschoben – anstatt 20.45 kommen wir nun 21.15 an. Beim Alamo Schalter ging leider auch keiner ran. In Santiago selbst hatten wir daher ca. 3,5 Stunden Aufenthalt und hatten uns ziemlich viele Gedanken darum gemacht was passiert wenn wir das Auto jetzt nicht bekommen und dadurch das Visa noch länger dauert und wann wir nun die Fähre reservieren. 
-Bislang war dies der kniffligste Teil der Reise, da es verschiedene Faktoren gibt die schief gehen können. 
+Die Insel Chileo ist landschaftlich sehr hübsch und ist so ein Mittelding zwischen Strand/Dünen-Umgebung und Mitteleuropa. Die Städtchen wirken allerdings eher skandinavisch. Die Insel enthält einige Attraktionen, aufgrund der vorangeschrittenen Zeit und der Entfernungen auf der grossen Insel, konnten wir „nur“ Pinguine beobachten und ein altes spanisches Fort. Die Pinguine sieht man allerdings nur wenn man eine entsprechende Tour bucht, da diese etwas abseits auf kleinen Inselchen leben.  
 
-Zur Auflösung: Liza hat sich um die Koffer gekümmert und ich bin direkt zum Alamo Schalter gegangen und er war sogar noch besetzt. Zwischenzeitlich hatten wir sogar den Alamo Twitter Account angeschrieben – was man nicht alles so macht. Wir bekamen das Auto und auch die Argentinienbewilligung war relativ schnell beantragt. Spätestens am nächsten Tag am Abend sollte das Dokument dann auch vorliegen. Wir hätten es sogar per Email zugeschickt bekommen können, aber da die Beamten an der Grenzen bestimmt auf Papier bestehen wollten wir es doch traditionell bekommen. 
-
-Nachdem wir dann unseren Wagen hatten, irgendein grossen Nissan, und ich mich an die Automatik-Gangschaltung gewöhnt hatte ging es dann nach Puerto Vares zu unserem Hotel „Solace“. Hübsch war es.  
+Da es nun schon gegen 19.00 Uhr war und wir noch zum Flughafen unser Argentinien Fahrerlaubnis abzuholen mussten reisten wir wieder von der Insel ab.  
+Auf dem Flughafen angekommen, es war 20.30 Uhr, war leider niemand von Alamo da. Nach etwas rumtelefonieren hatte ich den Manager des Standes am Telefon und durch Zufall gab es noch zwei andere Kunden von Alamo die dringend mit ihm reden wollten. Der Manager konnte leider nur sehr schlecht englisch, sodass ich froh war das noch weitere Leute ihn unbedingt hier sehen wollten. Nach ca. 45 Minuten Wartezeit auf dem Flughafen war er nun auch da und konnte uns den Ausdruck überreichen. Mit etwas Geduld und Nerven lassen hatten wir nun die Papiere in der Hand.  
+Die Fährreservierung wollten wir dann morgen vor dem Frühstück noch angehen. Jetzt ging es erstmal zurück zum Hotel und noch einen letzten Happen essen. 
