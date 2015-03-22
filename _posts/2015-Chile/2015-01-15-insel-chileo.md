@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nach Puerto Montt, der Tag des Zweifelns"
+title: "Suche nach der Fährreservierung und Besuch der Insel Chileo"
 category: 2015-Chile
 header-image: "http://placehold.it/1280x720/7f8c8d/ffffff"
 navigation:
