@@ -12,10 +12,10 @@ navigation:
     link: "/2015-chile/atacama-sued"
   next:
     title-small: "14. Januar"
-    title-bold: "..."
-    title-full: "14. Januar: ..."
+    title-bold: "Puerto Montt"
+    title-full: "14. Januar: Nach Puerto Montt, der Tag des Zweifelns"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
-    link: "/2015-chile/atacama-nord"
+    link: "/2015-chile/puerto-montt"
 ---
 Letzter wirklicher Tag in der Wüste. Da wir gestern den „Süden“ von San Pedro de Atacama erkundet hatten ging es heute in den Norden. Eigentliches Ziel war dabei der Geysir El Tatio. Nach dem Volltanken (mit Service!) ging es dann los… aber wohin eigentlich genau? Das Navi kannte jedenfalls nicht die Antwort. Auch die Karte war ziemlich vage was das anging und die Beschilderung hier ist nicht vorhanden. 
 
