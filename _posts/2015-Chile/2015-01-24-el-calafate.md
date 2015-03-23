@@ -11,11 +11,11 @@ navigation:
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
     link: "/2015-chile/el-chalten-gletscher"
   next:
-    title-small: "22. Januar"
-    title-bold: "..."
-    title-full: "22. Januar: ..."
+    title-small: "25. Januar"
+    title-bold: "Nach Chile"
+    title-full: "25. Januar: Nach Chile, in den Torres del Paine"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
-    link: "/2015-chile/nach-la-junta"
+    link: "/2015-chile/torres-del-paine"
 ---
 Auf zum zweiten und letzten Zielpunkt in Argentinien: El Calafate, also weiter südlich der Routa 40 gefolgt. 
 
