@@ -11,11 +11,11 @@ navigation:
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
     link: "/2015-chile/torres-del-paine"
 next:
-    title-small: "22. Januar"
-    title-bold: "..."
-    title-full: "22. Januar: ..."
+    title-small: "26. Januar"
+    title-bold: "Puerto Natales"
+    title-full: "26. Januar: Nach Puerto Natales"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
-    link: "/2015-chile/nach-la-junta"
+    link: "/2015-chile/puerto-natales"
 ---
 Aufwachen im Park mit Blick auf die... wolkenverhangenen... Berge. Das erste Mal dass das Wetter nicht so wollte wie wir. Geplant war an dem Tag den riesigen Park näher zu erkunden. Es gibt ziemlich viele Wanderwege, die meisten benötigen aber 4 Stunden und weit mehr, daher hatten wir uns eine kleine Route am Lago Grey rausgesucht. 
 
