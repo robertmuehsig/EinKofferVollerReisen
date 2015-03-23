@@ -6,26 +6,29 @@ header-image: "http://placehold.it/1280x720/7f8c8d/ffffff"
 navigation:
   previous:
     title-small: "18. Januar"
-    title-bold: "Chaiten"
-    title-full: "17. Januar: Angekommen in Chaiten"
+    title-bold: "Futaleufú und La Junta"
+    title-full: "18. Januar: Nach Futaleufú und La Junta"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
-    link: "/2015-chile/chaiten"
+    link: "/2015-chile/futaleufu-und-la-junta"
   next:
     title-small: "20. Januar"
-    title-bold: "..."
-    title-full: "19. Januar: ..."
+    title-bold: "Lago General"
+    title-full: "20. Januar: In die Wildnis zum Lago General Carrera mit ewiger Bootstour"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
-    link: "/2015-chile/nach-la-junta"
+    link: "/2015-chile/lago-general"
 ---
-Weg von Chaiten ging es erstmal die Routa 7 weiter entlang. Wir wollten allerdings einen kleinen Umweg machen nach Futaleufú. Der Ort ist bekannt als Ausflugsziel und nicht sehr weit von der argentinischen Grenze. Die Schotterpiste führte vorbei an verschiedenen hübschen Seen und folgt immer einem Fluss der zum Rafting gut geeignet ist. Wir brauchten bis zu dem Örtchen ca. 2 Stunden ab der Routa 7. Direkt als wir im Ort angekommen sind hat auch einer unserer Reifen nachgegeben – argh. Glück im Unglück: Die erste Dame die wir ansprachen konnte deutsch und hat uns an eine Werkstatt kaum 200 Meter entfernt verwiesen. Zuerst kamen Zweifel auf ob die überhaupt an einem Sonntag noch auf hatten, aber diese waren unbegründet.  
+Nach dem guten Frühstück ging es weiter zur Hauptstadt dieser Region – die ansonsten ziemlich verlassen ist. Im Prinzip gibt es nur die Routa 7 die stets nach Süden führt. 
 
-Dafür dass wir beide kein Wort spanisch können hat uns der Werkstatt-Mensch ziemlich gut verstanden und hat zuerst den Ersatzreifen montiert und dann sind wir ihm zur Werkstatt gefolgt.  
+Bei der Ausfahrt eines kleinen Dorfes haben wir uns dann entschlossen einen Anhalter mitzunehmen. Es gibt relativ viele Tramper auf der Strecke und je nach Lust und Laune kann man das machen. Unser Anhalter hiess Torben und kam aus Norddeutschland, somit gabs auch keine sprachlichen Barrieren und lustigerweise war Torben auf derselben Fähre eine Reihe hinter uns gewesen – die Welt ist klein und man sieht sich doch zweimal.
 
-Das Örtchen ist mitten im Niemandsland, daher hatten wir erst etwas bedenken ob wir jetzt hier stecken bleiben oder ob wir mit dem Reserverad die Schotterpiste bis zum nächsten Dorf nutzen müssen. Unser Reifen war jedenfalls (wie auch der Mechaniker gut sagen konnte) „kaputt“. Er selbst hatte kein Reifen für uns, allerdings hat er uns in sein Auto gewunken und er hat verschiedene Bekannte nach einem Rad entsprechender Grösse gefragt und siehe da: Beim 5. Versuch hatten wir am Ende ein Reifen. Yeah! Der findige Mechaniker musste den Reifen noch flicken, aber ansonsten war er „perfecto!“. 2 Stunden hat das ungefähr alles gedauert und ungefähr 40 Euro hat uns der Reifen gekostet und bislang hält er. Die Chilenen sind schon ein nettes Völkchen. 
+Durch Torben sind wir auf einen Gletscher hingewiesen worden den wir ansonsten wohl übersehen hätten. Kurz von der Routa 7 abgebogen ging es in den Wald hinein Richtung Berge. Am Ende (nach dem Bezahlhäuschen) gab es zwei Wege den Gletscher zu sehen:
 
-Zurück zur eigentlich Stadt: Wirklich viel gibt’s da nicht zu sehen, aber es gibt viele Hostels und zumindest ein sehr gutes Restaurant, sodass wir den Ort schon empfehlen können. 
+Man konnte eine ca. 2,5 Stündige Tour auf den Berg machen oder einen kurzen Weg durch den Wald gehen und den Gletscher von unten bestaunen. Wir drei hatten uns dann für den kurzen Weg entschieden und konnten den Gletscher auch von unten relativ gut sehen.
 
-Da es nun schon Nachmittag war mussten wir jetzt wieder aufbrechen – zurück über den Schotterweg zur Routa 7 und dann zum Örtchen La Junta.  
-In unserem Reiseführer (von 2013) steht drin dass die Routa 7 insgesamt eher eine Schotterpiste ist, allerdings sind die Chilenen auch ein ziemlich fleissiges Völkchen. Bis auf 40km war die Strasse komplett neu und ich kann mir vorstellen dass auch die restlichen 40km demnächst asphaltiert werden.  
+Danach ging es weiter nach Coihaique. Die Strassenverhältnisse waren allerdings alles andere als gut – was am Anfang noch asphaltiert war verwandelte sich erst zu einer Schotterpiste und später in eine Huggelpiste aus Erde. Durch den Reifenvorfall vom Vortag waren wir etwas sensibilisiert. 
 
-La Junta selbst ist halt so ein Städtchen. Zum grossen Teil besteht es eigentlich aus Hostels oder kleine Häuserchens. Zum Übernachten reicht es und unsere „Cabana“ (ist quasi ein Bungalow) war ziemlich gut ausgestattet. 
+Am Nachmittag mussten wir eine Zwangspause machen, da es Sprengungen auf der Strecke gibt. Das Baupersonal wies uns darauf hin dass es erst gegen 17 Uhr weitergeht – also pausierten wir erstmal drei Stunden – glücklicherweise direkt neben einem Fjord. Torben konnte während der Zeit ein paar seiner Geschichten erzählen uns eigentlich war es gar nicht so schlecht. Blöd war allerdings dass wir ca. noch 4 Stunden bis Coihaique vor uns hatten.
+
+Die Fahrt ging durch Wälder, Seenlandschaften und Wiesen vorüber, die Strasse wurde mal schlechter, mal besser. Ohne geländegängiges Fahrzeug wäre das durchaus etwas anspruchsvoller geworden.
+
+Endlich angekommen hatten wir uns zusammen noch eine Bar/Restaurant/Gasthaus ausgesucht (Mama Gautscho) und haben den Abend ausklingen lassen. Es kann ganz lustig sein jemanden mal mitzunehmen.
