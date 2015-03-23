@@ -11,11 +11,11 @@ navigation:
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
     link: "/2015-chile/torres-del-paine"
 next:
-    title-small: "22. Januar"
-    title-bold: "..."
-    title-full: "22. Januar: ..."
+    title-small: "26. Januar"
+    title-bold: "Punta Arenas"
+    title-full: "26. Januar: Punta Arenas, südlichste Stadt auf dem Festland"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
-    link: "/2015-chile/nach-la-junta"
+    link: "/2015-chile/punta-arenas"
 ---
 Es war auch an diesem Tag wieder wolkenverhangen, aber so ist das halt – im Süden. Da wir direkt am Ende des Parks waren kamen wir ziemlich schnell auf die Schotterpiste Richtung Puerto Natales. Viel Verkehr gabs natürlich nicht, aber so konnte der Blick immer mal wieder in die Landschaft schweifen. Kurz vor Puerto Natales gibt es mehrere Höhlen (eine Mega Höhle und zwei kleinere), die wir noch kurz besichtigt hatten. Das Wetter war Solala, sodass wir da nicht sehr lange rumspaziert sind – was sich noch als etwas unkluge Entscheidung rausstellen sollte. 
 
