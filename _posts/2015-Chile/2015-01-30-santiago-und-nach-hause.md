@@ -9,7 +9,7 @@ navigation:
     title-bold: "Abflug nach Santiago"
     title-full: "29. Januar: Abflug nach Santiago"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
-    link: "/2015-chile/nach-santiago
+    link: "/2015-chile/nach-santiago"
   next:
     title-small: "Zur"
     title-bold: "Chile 2015 Startseite"
