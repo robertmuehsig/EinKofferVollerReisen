@@ -12,10 +12,10 @@ navigation:
     link: "/2015-chile/coihaique"
   next:
     title-small: "21. Januar"
-    title-bold: "..."
-    title-full: "21. Januar: ..."
+    title-bold: "Chile Chico"
+    title-full: "21. Januar: Nach Chile Chico und zurück"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
-    link: "/2015-chile/nach-la-junta"
+    link: "/2015-chile/chile-chico"
 ---
 Aufstehen, Essen, Tanken und weiter geht die Fahrt weiter südlich entlang der Routa 7. Die Strassenverhältnisse wurden nicht wirklich besser bzw. blieben sie gleich „schlecht“, also sind wir mit 40-70kmh durch die Gegend gedüst. 
 
