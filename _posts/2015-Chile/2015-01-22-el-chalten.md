@@ -15,7 +15,7 @@ navigation:
     title-bold: "Gletscher"
     title-full: "23. Januar: Bootsfahrt zum Gletscher"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
-    link: "/2015-chile/nach-la-junta"
+    link: "/2015-chile/el-chalten-gletscher"
 ---
 An diesem Tag stand die längste Route an: ca. 800km bis nach El Chalten in Argentinien. Die Fahrt führte zuerst wieder nach Chile Chico und dann durch Argentinien über die Routa 40. 
 
