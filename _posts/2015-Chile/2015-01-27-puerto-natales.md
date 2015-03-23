@@ -5,15 +5,15 @@ category: 2015-Chile
 header-image: "http://placehold.it/1280x720/7f8c8d/ffffff"
 navigation:
   previous:
-    title-small: "25. Januar"
-    title-bold: "Nach Chile"
-    title-full: "25. Januar: Nach Chile, in den Torres del Paine"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
-    link: "/2015-chile/torres-del-paine"
-next:
     title-small: "26. Januar"
+    title-bold: "Torres del Paine"
+    title-full: "26. Januar: Torres del Paine Parkaufenthalt"
+    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    link: "/2015-chile/torres-del-paine-tag"
+  next:
+    title-small: "28. Januar"
     title-bold: "Punta Arenas"
-    title-full: "26. Januar: Punta Arenas, südlichste Stadt auf dem Festland"
+    title-full: "28. Januar: Punta Arenas, südlichste Stadt auf dem Festland"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
     link: "/2015-chile/punta-arenas"
 ---

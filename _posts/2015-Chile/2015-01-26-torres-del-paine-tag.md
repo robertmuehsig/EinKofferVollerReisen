@@ -10,10 +10,10 @@ navigation:
     title-full: "25. Januar: Nach Chile, in den Torres del Paine"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
     link: "/2015-chile/torres-del-paine"
-next:
-    title-small: "26. Januar"
+  next:
+    title-small: "27. Januar"
     title-bold: "Puerto Natales"
-    title-full: "26. Januar: Nach Puerto Natales"
+    title-full: "27. Januar: Nach Puerto Natales"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
     link: "/2015-chile/puerto-natales"
 ---
