@@ -5,17 +5,17 @@ category: 2015-Chile
 header-image: "http://placehold.it/1280x720/7f8c8d/ffffff"
 navigation:
   previous:
-    title-small: "23. Januar"
-    title-bold: "Gletscher"
-    title-full: "23. Januar: Bootsfahrt zum Gletscher"
+    title-small: "24. Januar"
+    title-bold: "El Calafate"
+    title-full: "24. Januar: Nach El Calafate"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
-    link: "/2015-chile/el-chalten-gletscher"
+    link: "/2015-chile/el-calafate"
   next:
-    title-small: "22. Januar"
-    title-bold: "..."
-    title-full: "22. Januar: ..."
+    title-small: "26. Januar"
+    title-bold: "Torres del Paine"
+    title-full: "26. Januar: Torres del Paine Parkaufenthalt"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
-    link: "/2015-chile/nach-la-junta"
+    link: "/2015-chile/torres-del-paine-tag"
 ---
 Tägliche Berichte sind nicht leicht auf so einem Roadtrip. Daher erstmal das wichtigste: Die Strassenverhältnisse. Gut asphaltiert, wenig Schlaglöcher, läuft also. Wetter war Solala mit Wolken, dafür weniger Wind – allerdings wurde es Stück für Stück spürbar kälter (am Ende des Tages ca. 15 Grad). Jeden Tag eine gute Tat: Wir haben mal wieder einen Anhalter mitgenommen – diesmal jemanden aus Frankreich – ein Bademeister. 
 
