@@ -12,12 +12,13 @@ navigation:
     link: "/2015-chile/lago-general"
   next:
     title-small: "22. Januar"
-    title-bold: "..."
-    title-full: "22. Januar: ..."
+    title-bold: "El Chalten"
+    title-full: "22. Januar: Durch die Pampa nach El Chalten"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
-    link: "/2015-chile/nach-la-junta"
+    link: "/2015-chile/el-chalten"
 ---
 Der Lodgebetreiber riet uns zum Geld holen direkt nach Chile Chico zu fahren, also haben wir den Rat befolgt. 
+
 Nach einem kurzen Weg verliessen wir die Routa 7 und fuhren Richtung Argentinien den See entlang. Strassenverhältnisse sind gleich geblieben, der Ausblick auf den See hingegen war toll. Nach ca. 2 Stunden hatten wir unsere Lodge für diesen Tag gesehen – und sind dran vorbei gefahren (des Geldes wegen und was sollte man schon sonst Mitten am Tag machen…).
 
 Nach weiteren 2,5 Stunden sind wir dann in Chile Chico angekommen, haben Geld geholt, waren was essen und sind wieder zurück gefahren. Etwas deprimierend zwar, aber unsere Planung hier war nicht ganz ausgefeilt. 
