@@ -5,15 +5,15 @@ category: 2015-Chile
 header-image: "http://placehold.it/1280x720/7f8c8d/ffffff"
 navigation:
   previous:
-    title-small: "20. Januar"
-    title-bold: "Lago General"
-    title-full: "20. Januar: In die Wildnis zum Lago General Carrera mit ewiger Bootstour"
+    title-small: "21. Januar"
+    title-bold: "Chile Chico"
+    title-full: "21. Januar: Nach Chile Chico und zurück"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
-    link: "/2015-chile/lago-general"
+    link: "/2015-chile/chile-chico"
   next:
-    title-small: "22. Januar"
-    title-bold: "..."
-    title-full: "22. Januar: ..."
+    title-small: "23. Januar"
+    title-bold: "Gletscher"
+    title-full: "23. Januar: Bootsfahrt zum Gletscher"
     image: "http://placehold.it/965x350/7f8c8d/ffffff"
     link: "/2015-chile/nach-la-junta"
 ---
