@@ -31,4 +31,4 @@ Am Nachmittag mussten wir eine Zwangspause machen, da es Sprengungen auf der Str
 
 Die Fahrt ging durch Wälder, Seenlandschaften und Wiesen vorüber, die Strasse wurde mal schlechter, mal besser. Ohne geländegängiges Fahrzeug wäre das durchaus etwas anspruchsvoller geworden.
 
-Endlich angekommen hatten wir uns zusammen noch eine Bar/Restaurant/Gasthaus ausgesucht (Mama Gautscho) und haben den Abend ausklingen lassen. Es kann ganz lustig sein jemanden mal mitzunehmen.
+Endlich angekommen hatten wir uns zusammen noch eine Bar/Restaurant/Gasthaus ausgesucht ([Mamma Gaucha](http://www.tripadvisor.es/Restaurant_Review-g317798-d1956488-Reviews-Mamma_Gaucha-Coyhaique_Aisen_Region.html)) und haben den Abend ausklingen lassen. Es kann ganz lustig sein jemanden mal mitzunehmen.
