@@ -8,6 +8,8 @@ highlighter: pygments
 # https://help.github.com/articles/migrating-your-pages-site-from-maruku
 markdown: kramdown
 
+imagerepository: http://einkoffervollerreisen.blob.core.windows.net/
+
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
