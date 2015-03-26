@@ -2,7 +2,7 @@
 layout: post
 title: "Durch die Pampa nach El Chalten"
 category: 2015-Chile
-header-image: "http://placehold.it/1280x720/7f8c8d/ffffff"
+header-image: "images-2015-chile/chile-2015-01-22_00102-1280x720.jpg"
 navigation:
   previous:
     title-small: "21. Januar"

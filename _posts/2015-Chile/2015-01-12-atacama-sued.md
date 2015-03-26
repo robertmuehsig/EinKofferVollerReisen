@@ -2,7 +2,7 @@
 layout: post
 title: "Atacama Wüste: Erkundungstour Süd"
 category: 2015-Chile
-header-image: "images-2015-chile/chile-2015-01-12_00002-1920x1080.jpg"
+header-image: "images-2015-chile/chile-2015-01-12_00002-1280x720.jpg"
 navigation:
   previous:
     title-small: "12. Januar"

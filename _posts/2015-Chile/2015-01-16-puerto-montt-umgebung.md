@@ -2,7 +2,7 @@
 layout: post
 title: "Fährenreservierung, Planänderungen und Erkundung um den See"
 category: 2015-Chile
-header-image: "http://placehold.it/1280x720/7f8c8d/ffffff"
+header-image: "images-2015-chile/http://placehold.it/1280x720/7f8c8d/ffffff"
 navigation:
   previous:
     title-small: "15. Januar"

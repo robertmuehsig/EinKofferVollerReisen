@@ -2,7 +2,7 @@
 layout: post
 title: "In die Wildnis zum Lago General Carrera mit ewiger Bootstour"
 category: 2015-Chile
-header-image: "http://placehold.it/1280x720/7f8c8d/ffffff"
+header-image: "images-2015-chile/chile-2015-01-20_00092-1280x720.jpg"
 navigation:
   previous:
     title-small: "19. Januar"
