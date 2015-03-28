@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Auf nach Coihaique mit einer kleinen Pause"
+title: "Auf nach Coihaique"
+subtitle: "Mit kleinem Zwangszwischenstopp am See"
 category: 2015-Chile
 header-image: "images-2015-chile/chile-2015-01-19_00090-1280x720.jpg"
 navigation:

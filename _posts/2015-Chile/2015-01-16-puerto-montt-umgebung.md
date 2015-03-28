@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Fährenreservierung, Planänderungen und Erkundung um den See"
+title: "Rund um Puerto Montt"
+subtitle: "Fährenreservierung, Planänderungen und Erkundung um den See"
 category: 2015-Chile
 header-image: "images-2015-chile/http://placehold.it/1280x720/7f8c8d/ffffff"
 navigation:

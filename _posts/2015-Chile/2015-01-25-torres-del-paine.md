@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Nach Chile, in den Torres del Paine"
+title: "Wieder nach Chile"
+subtitle: "In den Nationalpark Torres del Paine"
 category: 2015-Chile
 header-image: "images-2015-chile/chile-2015-01-25_00127-1280x720.jpg"
 navigation:

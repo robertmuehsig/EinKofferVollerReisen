@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Torres del Paine Parkaufenthalt"
+title: "Torres del Paine"
+subtitle: "Ein Tag im Park"
 category: 2015-Chile
 header-image: "images-2015-chile/chile-2015-01-26_00132-1280x720.jpg"
 navigation:

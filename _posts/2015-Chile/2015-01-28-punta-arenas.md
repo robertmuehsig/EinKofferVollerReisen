@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Punta Arenas, südlichste Stadt auf dem Festland"
+title: "Punta Arenas"
+subtitle: "Südlichste Stadt auf dem Festland"
 category: 2015-Chile
 header-image: "images-2015-chile/chile-2015-01-28_00141-1280x720.jpg"
 navigation:

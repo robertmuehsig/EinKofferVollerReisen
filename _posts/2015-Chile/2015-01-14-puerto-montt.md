@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Nach Puerto Montt, der Tag des Zweifelns"
+title: "Nach Puerto Montt"
+subtitle: "Der Tag des Zweifelns und Hoffens"
 category: 2015-Chile
 header-image: "images-2015-chile/chile-2015-01-16_00068-1280x720.jpg"
 navigation:

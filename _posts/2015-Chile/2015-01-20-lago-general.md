@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "In die Wildnis zum Lago General Carrera mit ewiger Bootstour"
+title: "Lago General Carrera"
+subtitle: "Eine Bootsfahrt kann auch lang sein."
 category: 2015-Chile
 header-image: "images-2015-chile/chile-2015-01-20_00092-1280x720.jpg"
 navigation:

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Kurzaufenthalt in Santiago und ab nach Hause"
+title: "Kurzaufenthalt in Santiago"
+subtitle: "... und ab nach Hause"
 category: 2015-Chile
 header-image: "images-2015-chile/chile-2015-01-12_00024-1280x720.jpg"
 navigation:
