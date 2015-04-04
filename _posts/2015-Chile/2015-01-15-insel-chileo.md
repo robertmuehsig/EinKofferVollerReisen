@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Besuch der Insel Chileo"
-subtitle "Und die Suche nach der Reservierung für die Fähre"
+subtitle: "Und die Suche nach der Reservierung für die Fähre"
 category: 2015-Chile
 header-image: "images-2015-chile/chile-2015-01-15_00067-1280x720.jpg"
 navigation:
