@@ -9,13 +9,13 @@ navigation:
     title-small: "25. Januar"
     title-bold: "Nach Chile"
     title-full: "25. Januar: Nach Chile, in den Torres del Paine"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-25_00127-965x350.jpg"
     link: "/2015-chile/torres-del-paine"
   next:
     title-small: "27. Januar"
     title-bold: "Puerto Natales"
     title-full: "27. Januar: Nach Puerto Natales"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-27_00136-965x350.jpg"
     link: "/2015-chile/puerto-natales"
 ---
 Aufwachen im Park mit Blick auf die... wolkenverhangenen... Berge. Das erste Mal dass das Wetter nicht so wollte wie wir. Geplant war an dem Tag den riesigen Park näher zu erkunden. Es gibt ziemlich viele Wanderwege, die meisten benötigen aber 4 Stunden und weit mehr, daher hatten wir uns eine kleine Route am Lago Grey rausgesucht. 

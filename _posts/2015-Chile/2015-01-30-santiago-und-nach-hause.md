@@ -9,13 +9,13 @@ navigation:
     title-small: "29. Januar"
     title-bold: "Abflug nach Santiago"
     title-full: "29. Januar: Abflug nach Santiago"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-28_00143-965x350.jpg"
     link: "/2015-chile/nach-santiago"
   next:
     title-small: "Zur"
     title-bold: "Chile 2015 Startseite"
     title-full: "Zurück Chile 2015 Startseite"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-25_00001-965x350.jpg"
     link: "/2015-chile/index"
 ---
 Als wir am Morgen in unserem Hostel frühstückten kam doch tatsächlich der Wolfgang wieder um die Ecke. Man trifft sich halt doch immer zweimal im Leben. Nach einem kurzen Plausch sind wir dann zum Flughafen aufgebrochen. 

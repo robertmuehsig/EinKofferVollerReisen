@@ -9,13 +9,13 @@ navigation:
     title-small: "14. Januar"
     title-bold: "Puerto Montt"
     title-full: "14. Januar: Nach Puerto Montt, der Tag des Zweifelns"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-16_00068-965x350.jpg"
     link: "/2015-chile/puerto-montt"
   next:
     title-small: "16. Januar"
     title-bold: "Puerto Montt Umgebung"
     title-full: "16. Januar: Fährenreservierung, Planänderungen und Erkundung um den See"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-16_00121-965x350.jpg"
     link: "/2015-chile/puerto-montt-umgebung"
 ---
 Aufstehen in einem komfortablen Bett, gutes Frühstück gehabt und bevor wir uns der Insel Chileo widmen wollten wir nun rausbekommen wo man die Reservierung für die Fähre von Hornopirén nach Caleta Gonzales machen kann. Das Hotelpersonal war sich unsicher und auf der Website steht eine Adresse die in das Hafengebiet von Puerto Montt führt wo man allerdings keine Tickets reservieren kann. Spanisch Kenntnisse wären hier evtl. doch wieder von Vorteil gewesen – uns konnte jedenfalls keiner sagen wo genau man die Tickets reservieren kann. Unsere Hoffnung lag nun einfach nochmal am Abend genauer auf die Website zu schauen und dass das Hotelpersonal am nächsten Tag da ja mal anrufen könnte. Da es nun schon nach Mittag war und wir noch einen weiten Weg vor uns hatten sind wir dann unverrichteter Dinge nach Chileo aufgebrochen. 

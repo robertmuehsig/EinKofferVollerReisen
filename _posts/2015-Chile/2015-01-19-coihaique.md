@@ -9,13 +9,13 @@ navigation:
     title-small: "18. Januar"
     title-bold: "Futaleufú und La Junta"
     title-full: "18. Januar: Nach Futaleufú und La Junta"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-18_00085-965x350.jpg"
     link: "/2015-chile/futaleufu-und-la-junta"
   next:
     title-small: "20. Januar"
     title-bold: "Lago General"
     title-full: "20. Januar: In die Wildnis zum Lago General Carrera mit ewiger Bootstour"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-20_00092-965x350.jpg"
     link: "/2015-chile/lago-general"
 ---
 Nach dem guten Frühstück ging es weiter zur Hauptstadt dieser Region – die ansonsten ziemlich verlassen ist. Im Prinzip gibt es nur die Routa 7 die stets nach Süden führt. 

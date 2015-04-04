@@ -9,13 +9,13 @@ navigation:
     title-small: "13. Januar"
     title-bold: "Atacama Wüste - Norden"
     title-full: "13. Januar: Atacama Wüste - Erkundungstour Nord"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-14_00045-965x350.jpg"
     link: "/2015-chile/atacama-nord"
   next:
     title-small: "15. Januar"
     title-bold: "Insel Chileo und mehr"
     title-full: "15. Januar: Suche nach der Fährreservierung und Besuch der Insel Chileo"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-15_00067-965x350.jpg"
     link: "/2015-chile/insel-chileo"
 ---
 Unser Flug ging erst gegen 13.00 Uhr, daher war die Abgabe des Mietwagens und co. recht entspannt. Von Calama ging die Reise erst nach Santiago und dann nach Puerto Montt. Wir haben uns bewusst relativ viel Puffer in Santiago gelassen (oder es gab keine günstigeren Flüge mehr… wir wissen es nicht mehr so genau), sodass wir eigentlich gegen 20.45 Uhr in Puerto Montt ankommen sollten. Hier kamen jetzt ein paar Schwierigkeiten auf uns zu – die wir aber schon bei der Buchung so geahnt hatten: 

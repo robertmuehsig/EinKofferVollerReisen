@@ -8,13 +8,13 @@ navigation:
     title-small: "27. Januar"
     title-bold: "Puerto Natales"
     title-full: "27. Januar: Nach Puerto Natales"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-27_00136-965x350.jpg"
     link: "/2015-chile/puerto-natales"
   next:
     title-small: "30. Januar"
     title-bold: "Santiago"
     title-full: "30. Januar: Kurzaufenthalt in Santiago und ab nach Hause"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-12_00024-965x350.jpg"
     link: "/2015-chile/santiago-und-nach-hause"
 ---
 Als wir am Morgen in unserem Hostel frühstückten kam doch tatsächlich der Wolfgang wieder um die Ecke. Man trifft sich halt doch immer zweimal im Leben. Nach einem kurzen Plausch sind wir dann zum Flughafen aufgebrochen. 

@@ -9,13 +9,13 @@ navigation:
     title-small: "20. Januar"
     title-bold: "Lago General"
     title-full: "20. Januar: In die Wildnis zum Lago General Carrera mit ewiger Bootstour"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-20_00092-965x350.jpg"
     link: "/2015-chile/lago-general"
   next:
     title-small: "22. Januar"
     title-bold: "El Chalten"
     title-full: "22. Januar: Durch die Pampa nach El Chalten"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-22_00102-965x350.jpg"
     link: "/2015-chile/el-chalten"
 ---
 Der Lodgebetreiber riet uns zum Geld holen direkt nach Chile Chico zu fahren, also haben wir den Rat befolgt. 

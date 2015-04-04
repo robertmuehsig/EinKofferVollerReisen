@@ -31,6 +31,7 @@ layout: default
 					<p>
 						von <a href="/" class="hover-effect"><strong>{{ site.author.name }}</strong></a> &mdash; Geschrieben am 
 {% assign m = page.date | date: "%-m" %}
+{{ page.date | date: "%-d" }}.
 {% case m %}
   {% when '1' %}Januar
   {% when '2' %}Februar
@@ -58,7 +59,7 @@ layout: default
 
 			<div class="pagination grid">
 				<figure class="single-item-effect half">
-					<img src="{{ page.navigation.previous.image }}" alt="{{ page.navigation.previous.title-full }}"/>
+					<img src="{{ site.imagerepository }}{{ page.navigation.previous.image }}" alt="{{ page.navigation.previous.title-full }}"/>
 					<figcaption>
 						<div class="figcaption-border">
 							<h2><i class="fa fa-angle-left"></i> {{ page.navigation.previous.title-small }} <span>{{ page.navigation.previous.title-bold }}</span></h2>
@@ -69,7 +70,7 @@ layout: default
 					</figcaption>		
 				</figure>
 				<figure class="single-item-effect half">
-					<img src="{{ page.navigation.next.image }}" alt="{{ page.navigation.next.title }}"/>
+					<img src="{{ site.imagerepository }}{{ page.navigation.next.image }}" alt="{{ page.navigation.next.title }}"/>
 					<figcaption>
 						<div class="figcaption-border">
 							<h2>{{ page.navigation.next.title-small }} <span>{{ page.navigation.next.title-bold }}</span> <i class="fa fa-angle-right"></i> </h2>

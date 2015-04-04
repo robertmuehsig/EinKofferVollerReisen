@@ -9,13 +9,13 @@ navigation:
     title-small: "27. Januar"
     title-bold: "Puerto Natales"
     title-full: "27. Januar: Nach Puerto Natales"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-27_00136-965x350.jpg"
     link: "/2015-chile/puerto-natales"
   next:
     title-small: "29. Januar"
     title-bold: "Abflug nach Santiago"
     title-full: "29. Januar: Abflug nach Santiago"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-28_00143-965x350.jpg"
     link: "/2015-chile/nach-santiago"
 ---
 Endspurt zu unserem letzten Ziel: Punta Arenas. Ca. 250km entfernt. Die Fahrt dahin verlief recht ereignislos und die Landschaft wiederholt sich doch immer wieder (samt den Grusel-Bäumen). Kurz vor Punta Arenas gab es aber noch eine Attraktion zu sehen: Eine Pinguinkolonie.

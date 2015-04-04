@@ -8,13 +8,13 @@ navigation:
     title-small: "21. Januar"
     title-bold: "Chile Chico"
     title-full: "21. Januar: Nach Chile Chico und zurück"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-21_00100-965x350.jpg"
     link: "/2015-chile/chile-chico"
   next:
     title-small: "23. Januar"
     title-bold: "Gletscher"
     title-full: "23. Januar: Bootsfahrt zum Gletscher"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-23_00107-965x350.jpg"
     link: "/2015-chile/el-chalten-gletscher"
 ---
 An diesem Tag stand die längste Route an: ca. 800km bis nach El Chalten in Argentinien. Die Fahrt führte zuerst wieder nach Chile Chico und dann durch Argentinien über die Routa 40. 

@@ -8,13 +8,13 @@ navigation:
     title-small: "17. Januar"
     title-bold: "Chaiten"
     title-full: "17. Januar: Angekommen in Chaiten"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-17_00076-965x350.jpg"
     link: "/2015-chile/chaiten"
   next:
     title-small: "19. Januar"
     title-bold: "Coihaique"
     title-full: "19. Januar: Auf nach Coihaique mit einer kleinen Pause"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-19_00090-965x350.jpg"
     link: "/2015-chile/coihaique"
 ---
 Weg von Chaiten ging es erstmal die Routa 7 weiter entlang. Wir wollten allerdings einen kleinen Umweg machen nach Futaleufú. Der Ort ist bekannt als Ausflugsziel und nicht sehr weit von der argentinischen Grenze. Die Schotterpiste führte vorbei an verschiedenen hübschen Seen und folgt immer einem Fluss der zum Rafting gut geeignet ist. Wir brauchten bis zu dem Örtchen ca. 2 Stunden ab der Routa 7. Direkt als wir im Ort angekommen sind hat auch einer unserer Reifen nachgegeben – argh. Glück im Unglück: Die erste Dame die wir ansprachen konnte deutsch und hat uns an eine Werkstatt kaum 200 Meter entfernt verwiesen. Zuerst kamen Zweifel auf ob die überhaupt an einem Sonntag noch auf hatten, aber diese waren unbegründet.  

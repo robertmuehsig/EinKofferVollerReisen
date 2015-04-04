@@ -9,13 +9,13 @@ navigation:
     title-small: "12. Januar"
     title-bold: "Abreise"
     title-full: "10. Januar: Abreise"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-12_00025-965x350.jpg"
     link: "/2015-chile/abreise"
   next:
     title-small: "13. Januar"
     title-bold: "Atacama Wüste - Norden"
     title-full: "13. Januar: Atacama Wüste - Norden"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-14_00045-965x350.jpg"
     link: "/2015-chile/atacama-nord"
 ---
 Der Erste vollständige Tag ist angebrochen. Die Nacht war relativ ruhig und dank der bemerkenswert kurzen Zeitverschiebung von 4 Stunden hielt sich auch der Jet Lag in Grenzen.  

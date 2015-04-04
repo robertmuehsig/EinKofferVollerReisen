@@ -9,13 +9,13 @@ navigation:
     title-small: "22. Januar"
     title-bold: "El Chalten"
     title-full: "22. Januar: Durch die Pampa nach El Chalten"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-22_00102-965x350.jpg"
     link: "/2015-chile/el-chalten"
   next:
     title-small: "24. Januar"
     title-bold: "El Calafate"
     title-full: "24. Januar: Nach El Calafate"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-24_00116-965x350.jpg"
     link: "/2015-chile/el-calafate"
 ---
 Erster voller Tag in Argentinien und eigentlich kann man hier zwei Sachen machen: Wandern oder zum Gletscher am See fahren. Zuerst kam die Bootsfahrt dran, welche uns ziemlich nach an den Gletscher führte. Das Wetter war überraschenderweise sonnig und wolkenlos – perfekt. Bis auf den Wind auf der See, der ziemlich garstig war. Die Tour dauert ca. 3 Stunden und danach haben wir noch die näheren Aussichtspunkte mit dem Blick auf den Fitz Roy abgeklappert. 

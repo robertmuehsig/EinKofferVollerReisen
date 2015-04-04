@@ -9,13 +9,13 @@ navigation:
     title-small: "24. Januar"
     title-bold: "El Calafate"
     title-full: "24. Januar: Nach El Calafate"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-24_00116-965x350.jpg"
     link: "/2015-chile/el-calafate"
   next:
     title-small: "26. Januar"
     title-bold: "Torres del Paine"
     title-full: "26. Januar: Torres del Paine Parkaufenthalt"
-    image: "http://placehold.it/965x350/7f8c8d/ffffff"
+    image: "images-2015-chile/chile-2015-01-26_00132-965x350.jpg"
     link: "/2015-chile/torres-del-paine-tag"
 ---
 Tägliche Berichte sind nicht leicht auf so einem Roadtrip. Daher erstmal das wichtigste: Die Strassenverhältnisse. Gut asphaltiert, wenig Schlaglöcher, läuft also. Wetter war Solala mit Wolken, dafür weniger Wind – allerdings wurde es Stück für Stück spürbar kälter (am Ende des Tages ca. 15 Grad). Jeden Tag eine gute Tat: Wir haben mal wieder einen Anhalter mitgenommen – diesmal jemanden aus Frankreich – ein Bademeister. 
