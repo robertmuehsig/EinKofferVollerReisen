@@ -2207,10 +2207,11 @@ header .overlay {
 .index-single .grid figure.full {
     width: 100%;
 }
+/* disabled it, otherwise images are stretched
 .index-single .grid img {
     width: 100%;
     height: 100%;
-}
+} */
 .index-single figure.single-item-effect img {
     width: -webkit-calc(100% + 50px);
     width: calc(100% + 50px);
