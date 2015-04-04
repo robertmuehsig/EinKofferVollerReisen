@@ -29,7 +29,23 @@ layout: default
 			<div class="divider_30"></div>
 			<div class="article-footer">
 					<p>
-						von <a href="/" class="hover-effect"><strong>{{ site.author.name }}</strong></a> &mdash; Geschrieben am {{ page.date | date_to_long_string }}.
+						von <a href="/" class="hover-effect"><strong>{{ site.author.name }}</strong></a> &mdash; Geschrieben am 
+{% assign m = page.date | date: "%-m" %}
+{% case m %}
+  {% when '1' %}Januar
+  {% when '2' %}Februar
+  {% when '3' %}M&auml;rz
+  {% when '4' %}April
+  {% when '5' %}Mai
+  {% when '6' %}Juni
+  {% when '7' %}Juli
+  {% when '8' %}August
+  {% when '9' %}September
+  {% when '10' %}Oktober
+  {% when '11' %}November
+  {% when '12' %}Dezember
+{% endcase %}
+{{ page.date | date: "%Y" }}.
 					</p>
 					
 					<div class="clearfix"></div>
