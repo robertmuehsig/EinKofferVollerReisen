@@ -417,9 +417,11 @@ URL:        http://modeltheme.com/travelogue/
         right: 20px;
         bottom: 20px;
     }
+    /* Changed: Don't stretch images 
     .bg-img img{
         max-width: 100%;
     }
+    */
     /* Add new rules for this interval below */
 
 }
