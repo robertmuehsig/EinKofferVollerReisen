@@ -29,4 +29,4 @@ Zur Auflösung: Liza hat sich um die Koffer gekümmert und ich bin direkt zum Al
 
 Nachdem wir dann unseren Wagen hatten, irgendein grossen Nissan, und ich mich an die Automatik-Gangschaltung gewöhnt hatte ging es dann nach Puerto Vares zu unserem Hotel „Solace“. Hübsch war es.  
 
-{% include image.html url="images-2015-chile/chile-2015-01-17_00123-1280x720.jpg" description="Kirche n Puerto Vares" %}
+{% include image.html url="images-2015-chile/chile-2015-01-17_00123-1280x720.jpg" description="Kirche in Puerto Vares" %}
