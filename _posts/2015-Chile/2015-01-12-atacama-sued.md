@@ -33,7 +33,11 @@ Angekommen bei der Lagune erblickten wir auch relativ schnell die Flamingos. Ich
 
 ## Zum Nirgendwo, drumherum.
 
-Nachdem wir genug Flamingos und Salz gesehen haben sind wir in ein kleines Dörfchen namens Soclaire gefahren. Die Route dahin führte uns weiter durch die Salzwüste und am Ende auf ca. 3500 Meter. Das Dörfchen war im Reiseführer allerdings romantischer beschrieben als es eigentlich ist. Man sieht ein paar ältere Häuser aus Naturstein und ein paar Terrassenfelder mit Gemüse. Aus der Not heraus sind wir dann einfach weiter gefahren zu zwei benachbarten Vulkanen.  
+Nachdem wir genug Flamingos und Salz gesehen haben sind wir in ein kleines Dörfchen namens Soclaire gefahren. Die Route dahin führte uns weiter durch die Salzwüste und am Ende auf ca. 3500 Meter. Das Dörfchen war im Reiseführer allerdings romantischer beschrieben als es eigentlich ist. Man sieht ein paar ältere Häuser aus Naturstein und ein paar Terrassenfelder mit Gemüse.
+
+{% include image.html url="images-2015-chile/NewImage00006-1280x720.jpg" description="Terrassenfelder" %}
+
+Aus der Not heraus sind wir dann einfach weiter gefahren zu zwei benachbarten Vulkanen.  
 
 {% include image.html url="images-2015-chile/chile-2015-01-12_00019-1280x720.jpg" description="Eine durchaus..." %}
 
