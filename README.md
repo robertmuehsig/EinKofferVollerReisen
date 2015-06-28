@@ -7,8 +7,12 @@ Used Version: 4 April 15
 
 ## Images-Container Sizes:
 
-1280*720 - Hero Image
-965*350 - Box in Grid large & Nav)
-480*320 - Box in Grid small
-1280*720 - Post
-480*320 - Post
+1280x720 - Hero Image
+965x350 - Box in Grid large & Nav
+480x320 - Box in Grid small
+1280x720 - Post
+480x320 - Post
+1920x1080 - Post
+
+Image Resizing Tool:
+- http://www.faststone.org/FSViewerDownload.htm

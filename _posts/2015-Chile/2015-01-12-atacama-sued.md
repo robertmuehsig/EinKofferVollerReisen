@@ -53,4 +53,8 @@ Der Park an sich ist nett, allerdings hatten wir bei der Hinfahrt sogar einen h�
 
 {% include image.html url="images-2015-chile/chile-2015-01-13_00030-1280x720.jpg" description="Überblick über Valle de la Luna" %}
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3674.663916046917!2d-68.28799259999998!3d-22.925763899999993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96a972ff8dc8582d%3A0x7ad176d2c4b12f43!2sValle+de+la+Luna!5e0!3m2!1sde!2sch!4v1435521541254" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 Wieder in San Pedro angekommen waren wir noch was essen – wobei auch hier wieder eine gewisse Hürde aufgrund unserer Spanisch-Kenntnisse vorhanden war – und das war es dann für den ersten Tag.
+
+{% include image.html url="images-2015-chile/NewImage00005-1280x720.jpg" description="Menu in San Pedro" %}
