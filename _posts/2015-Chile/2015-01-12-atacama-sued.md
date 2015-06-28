@@ -21,11 +21,17 @@ navigation:
 Der Erste vollständige Tag ist angebrochen. Die Nacht war relativ ruhig und dank der bemerkenswert kurzen Zeitverschiebung von 4 Stunden hielt sich auch der Jet Lag in Grenzen.  
 Los ging es also mit dem Frühstück in unserer Lodge, welches so ziemlich einem mitteleuropäischen Frühstück glich. Einzig die Verständigung hat uns etwas nachdenklich gestimmt – die gute Frau die für das Frühstück eingeteilt war sprach halt nur spanisch. Aber da wir einfach fleissig nickten und „Si“-sagten bekamen wir ein Rührei – so einfach geht das mit der Sprachverständigung. Die Lodge-Katzen und Hunde waren natürlich auch mit von der Partie.  
 
+## Salar de Atacama
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d468341.0409702637!2d-68.24999999999999!3d-23.49959315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96a8fa058ec18ecb%3A0xe467ef5c09abee71!2sSalar+de+Atacama%2C+San+Pedro+de+Atacama%2C+Regi%C3%B3n+de+Antofagasta%2C+Chile!5e0!3m2!1sde!2sch!4v1435513099731" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 Nach der Stärkung ging es dann los zum „Salar de Atacama“, eine Salzwüste mit ein paar kleineren Seen in denen Flamingos beheimatet sind. Die erste Stunde Fahrt war auf einer gut ausgebauten Strasse, danach ging es zu einer etwas unebeneren Strasse. Ein Jeep wäre praktischer gewesen, aber auch unsere Limousine hat es überlebt. Wirklich viel Verkehr ist in der Gegend da nicht unterwegs – aller 10 Minuten sieht man vielleicht mal ein anderes Auto, ansonsten ist es ziemlich ruhig. Wenn man mal an der Strasse anhält um zu fotografieren hört man genau nichts. Toten Still. Es war noch nicht mal besonders warm in der Wüste, sogar recht angenehm, aber keine Geräusche.  
 
 {% include image.html url="images-2015-chile/chile-2015-01-12_00009-1280x720.jpg" description="Flamingos" %}
 
 Angekommen bei der Lagune erblickten wir auch relativ schnell die Flamingos. Ich hatte mir eigentlich gedacht, dass es da eine grössere Herde (oder Schwarm? Na ihr wisst ja was ich meine…) Flamingos gibt, aber es waren nur ein paar dutzend zu sehen – diese allerdings aus direkter Nähe. Die Gegend drum herum ist eher unwirklich und ist geprägt von Salz/Sand-Gebilden und anderen Ablagerungen. Im Hintergrund sieht man die imposanten Berge und Vulkane der Region – einige davon sind immer noch aktiv.  
+
+## Zum Nirgendwo, drumherum.
 
 Nachdem wir genug Flamingos und Salz gesehen haben sind wir in ein kleines Dörfchen namens Soclaire gefahren. Die Route dahin führte uns weiter durch die Salzwüste und am Ende auf ca. 3500 Meter. Das Dörfchen war im Reiseführer allerdings romantischer beschrieben als es eigentlich ist. Man sieht ein paar ältere Häuser aus Naturstein und ein paar Terrassenfelder mit Gemüse. Aus der Not heraus sind wir dann einfach weiter gefahren zu zwei benachbarten Vulkanen.  
 
