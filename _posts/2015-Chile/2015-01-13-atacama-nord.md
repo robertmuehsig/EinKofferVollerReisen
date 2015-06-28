@@ -47,4 +47,6 @@ Nach einer gefühlten Ewigkeit sind wir dann bei El Tatio angekommen. Die offizi
 
 Danach ging es nun zurück nach San Pedro – und zwar über den „Schleichweg“, welcher am Ende aber ziemlich gut ausgebaut war. Unser Navi kannte da zwar gar keine Strassen, aber die Chilenen sind fleissig am Bauen. Hinterher hat sich rausgestellt das viele Wege nach El Tatio geführt hätten.
 
+{% include image.html url="images-2015-chile/chile-2015-01-14_00054-1280x720.jpg" description="Auf dem Rückweg gesehen" %}
+
 Nach den zwei Tagen in der Gegend haben wir (für uns) das wesentliche gesehen und freuen uns auf ein etwas grüneres Umfeld. Schauen wir mal wie es da wird.

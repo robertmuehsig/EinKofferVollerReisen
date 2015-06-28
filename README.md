@@ -10,5 +10,5 @@ Used Version: 4 April 15
 1280*720 - Hero Image
 965*350 - Box in Grid large & Nav)
 480*320 - Box in Grid small
-1600*580 - Post
+1280*720 - Post
 480*320 - Post
