@@ -22,7 +22,7 @@ Dies war nun die letzte Nacht in Puerto Vares, ab heute sollte es weiter gehen, 
 
 Wie sich am Ende rausstellte war die Adresse direkt das Hafenbüro und da gab es tatsächlich einen Ticketverkauf. Die andere Adresse, wo wir den Tag zuvor waren, gehörte zum Abfahrtsort der Fähre. Unsere geplante Fähre war allerdings bereits ausgebucht („Two Tickets, please.“ „Its full.“ „Fuck…“), sodass wir eine Nachtfähre noch am selben Tag genommen haben. Damit mussten wir ein Hotel stornieren und eine Nacht auf der Fähre verbringen. Abfahrt der Fähre war Mitternacht. Da wir zwischen Ticketkauf und Fähre nun noch fast einen ganzen Tag hatten konnten wir uns die Umgebung von Puerto Varas genauer anschauen.
 
-{% include image.html url="images-2015-chile/chile-2015-01-16_00034-1280x720" description="Frutillar" %}
+{% include image.html url="images-2015-chile/chile-2015-01-16_00034-1280x720.jpg" description="Frutillar" %}
 
 Zuerst sind wir nach Frutillar gefahren – ein hübscher Touristenort direkt am See. Der Ort wurde wohl von deutschen Auswanderen gegründet und so findet man viele Dinge aus der Heimat: Kuchen, Strudel, Brezeln, ein Haus in Kuckskucks-Uhr Form, Eisbein, Gartenzwerge, eine deutsche Feuerwehr etc. Natürlich kann man auch Baden gehen, allerdings sah es uns doch etwas zu kalt aus. Die Einheimischen sahen das allerdings anders und plantschten fröhlich bei gefühlten 15 Grad im Wasser.
 
