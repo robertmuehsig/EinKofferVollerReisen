@@ -24,13 +24,25 @@ Die Strassen um Puerto Montt sind gut ausgebaut und es gibt sogar eine Autobahn 
 
 {% include image.html url="images-2015-chile/NewImage00001-1280x720.jpg" description="Fährfahrt" %}
 
-Die Insel Chileo ist landschaftlich sehr hübsch und ist so ein Mittelding zwischen Strand/Dünen-Umgebung und Mitteleuropa. Die Städtchen wirken allerdings eher skandinavisch. Die Insel enthält einige Attraktionen, aufgrund der vorangeschrittenen Zeit und der Entfernungen auf der grossen Insel, konnten wir „nur“ Pinguine beobachten und ein altes spanisches Fort. Die Pinguine sieht man allerdings nur wenn man eine entsprechende Tour bucht, da diese etwas abseits auf kleinen Inselchen leben.  
+## Insel Chileo
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1500678.3530216615!2d-73.9538432!3d-42.72462809999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x962221c6f7f1ff8f%3A0xe1cde5a63dc08617!2sChilo%C3%A9+Province%2C+Los+Lagos+Region%2C+Chile!5e0!3m2!1sen!2sde!4v1435522880946" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+Die Insel Chileo ist landschaftlich sehr hübsch und ist so ein Mittelding zwischen Strand/Dünen-Umgebung und Mitteleuropa. Die Städtchen wirken allerdings eher skandinavisch. Die Insel enthält einige Attraktionen, aufgrund der vorangeschrittenen Zeit und der Entfernungen auf der grossen Insel, konnten wir „nur“ Pinguine beobachten und ein altes spanisches Fort.
+
+{% include image.html url="images-2015-chile/NewImage00010-1280x720.jpg" description="Inselwege" %}
+
+{% include image.html url="images-2015-chile/chile-2015-01-16_00069-1280x720.jpg" description="Kanone vom Fort" %}
+
+Die Pinguine sieht man allerdings nur wenn man eine entsprechende Tour bucht, da diese etwas abseits auf kleinen Inselchen leben.  
 
 {% include image.html url="images-2015-chile/chile-2015-01-15_00057-1280x720.jpg" description="Insel Chileo" %}
 
 {% include image.html url="images-2015-chile/chile-2015-01-15_00058-1280x720.jpg" description="Insel Chileo - Pinguine" %}
 
 {% include image.html url="images-2015-chile/chile-2015-01-15_00062-1280x720.jpg" description="Insel Chileo - Pinguine" %}
+
+## Bürokratie... yeah...
 
 Da es nun schon gegen 19.00 Uhr war und wir noch zum Flughafen unser Argentinien Fahrerlaubnis abzuholen mussten reisten wir wieder von der Insel ab.  
 Auf dem Flughafen angekommen, es war 20.30 Uhr, war leider niemand von Alamo da. Nach etwas rumtelefonieren hatte ich den Manager des Standes am Telefon und durch Zufall gab es noch zwei andere Kunden von Alamo die dringend mit ihm reden wollten. Der Manager konnte leider nur sehr schlecht englisch, sodass ich froh war das noch weitere Leute ihn unbedingt hier sehen wollten. Nach ca. 45 Minuten Wartezeit auf dem Flughafen war er nun auch da und konnte uns den Ausdruck überreichen. Mit etwas Geduld und Nerven lassen hatten wir nun die Papiere in der Hand.  
