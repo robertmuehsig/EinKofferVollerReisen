@@ -29,22 +29,22 @@ Angekommen bei der Lagune erblickten wir auch relativ schnell die Flamingos. Ich
 
 Nachdem wir genug Flamingos und Salz gesehen haben sind wir in ein kleines Dörfchen namens Soclaire gefahren. Die Route dahin führte uns weiter durch die Salzwüste und am Ende auf ca. 3500 Meter. Das Dörfchen war im Reiseführer allerdings romantischer beschrieben als es eigentlich ist. Man sieht ein paar ältere Häuser aus Naturstein und ein paar Terrassenfelder mit Gemüse. Aus der Not heraus sind wir dann einfach weiter gefahren zu zwei benachbarten Vulkanen.  
 
-{% include image.html url="images-2015-chile/chile-2015-01-12_00019-1280x720.jpg" description="Wüste" %}
+{% include image.html url="images-2015-chile/chile-2015-01-12_00019-1280x720.jpg" description="Eine durchaus..." %}
 
 An dieser Stelle musste unser Auto leider etwas mehr erleiden – aber alles blieb heil. Die Strecke war noch unebener als die zu den Flamingos, aber auch ohne 4x4 zu befahren. Oben angekommen war es echt kalt – 16 Grad und Wind. Vorher waren wir bei ca. 30 Grad durch die Wüste gegangen. Die Landschaft ist trotzdem erstaunlich lebendig. Von der trockenen Salzwüste, hin zu den grüneren Gebieten um die Vulkane – mitsamt Reh-ähnlichen Tierchen.  
 
-{% include image.html url="images-2015-chile/chile-2015-01-12_00021-1280x720.jpg" description="Wüste" %}
+{% include image.html url="images-2015-chile/chile-2015-01-12_00021-1280x720.jpg" description="... lebendige... " %}
 
-{% include image.html url="images-2015-chile/chile-2015-01-12_00023-1280x720.jpg" description="Wüste" %}
+{% include image.html url="images-2015-chile/chile-2015-01-12_00023-1280x720.jpg" description="...Wüste." %}
 
 Als letzten Tagespunkt wollten wir zur Valle de la Luna. Der Naturschutzpark beheimatet eine Kombination aus Canyons, Dünen und Salz/Sand-Gebilden und es gibt genügend Orte zum Erkunden. Da dieses Tal neben dem Städtchen San Pedro liegt haben auch viele Touristen eine Fahrrad-Tour dahin gemacht – allerdings muss man da schon fit sein, denn an der Stelle waren es wieder 30 Grad und kein Schatten.
 
-{% include image.html url="images-2015-chile/chile-2015-01-13_00028-1280x720.jpg" description="Valle de la Luna" %}
+{% include image.html url="images-2015-chile/chile-2015-01-13_00028-1280x720.jpg" description="In Valle de la Luna" %}
 
-{% include image.html url="images-2015-chile/chile-2015-01-13_00027-1280x720.jpg" description="Valle de la Luna" %}
+{% include image.html url="images-2015-chile/chile-2015-01-13_00027-1280x720.jpg" description="In Valle de la Luna" %}
 
 Der Park an sich ist nett, allerdings hatten wir bei der Hinfahrt sogar einen hübscheren Anblick über dieses Tal bekommen, sodass wir im Anschluss nochmal an einen anderen Aussichtspunkt ausserhalb des Parks gefahren sind.
 
-{% include image.html url="images-2015-chile/chile-2015-01-13_00030-1280x720.jpg" description="Valle de la Luna" %}
+{% include image.html url="images-2015-chile/chile-2015-01-13_00030-1280x720.jpg" description="Überblick über Valle de la Luna" %}
 
 Wieder in San Pedro angekommen waren wir noch was essen – wobei auch hier wieder eine gewisse Hürde aufgrund unserer Spanisch-Kenntnisse vorhanden war – und das war es dann für den ersten Tag.

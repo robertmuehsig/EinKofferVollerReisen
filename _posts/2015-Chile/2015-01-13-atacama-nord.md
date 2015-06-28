@@ -25,9 +25,9 @@ Eigentlich gibt es eine „direkte“ Verbindung zwischen San Pedro und dem Geys
 
 Erster Stopp war der Kupfertagebau vor den Toren von Calama. Wirklich viel haben wir nicht gesehen. Es ist ein riesiges Areal, diverse Zufahrten, grosse Bagger und riesen LKWs. In der Theorie gibt es wohl auch da irgendwo eine Führung, aber da diese vermutlich ohnehin nur auf Spanisch gewesen wäre haben wir uns das geschenkt.  
 
-{% include image.html url="images-2015-chile/chile-2015-01-13_00034-1280x720.jpg" description="Spanische Festung Schild" %}
+{% include image.html url="images-2015-chile/chile-2015-01-13_00034-1280x720.jpg" description="Name der spanische Festung" %}
 
-{% include image.html url="images-2015-chile/chile-2015-01-13_00035-1280x720.jpg" description="Spanische Festung Ruinen" %}
+{% include image.html url="images-2015-chile/chile-2015-01-13_00035-1280x720.jpg" description="Die Ruinen der spanische Festung" %}
 
 Danach ging es nach Chui Chui – ebenfalls kaum auf einer Karte verzeichnet, aber existent! In der Nähe von Chui Chui ist eine alte spanische Festung (Lasana), wobei da nur noch Grundmauern zu sehen waren. Der Weg dahin war allerdings abenteuerlich durch ein kleines Flusstal entlang. Die Rücktour war allerdings einfacher weil wir dann die offizielle Zufahrt gefunden hatten. Wie gesagt: Beschilderung ist nicht so gut gemacht.  
 
