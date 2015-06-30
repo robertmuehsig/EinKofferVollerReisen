@@ -13,12 +13,12 @@ layout: default
 					<img  class="async-image hide" src="#" data-src="{{ site.imagerepository }}{{ page.header-image }}" alt="" />
 					<div class="overlay hidden" id="overlay"></div>
 				</div>
-				<div class="title hidden" id="title">					
+				<div class="title hidden" id="title">
 					<h1>{{ page.title }}</h1>
 				</div>
 			</header>
 			<button class="trigger scroll-down-pulse"><span>Trigger</span></button>
-			<div class="title">					
+			<div class="title">
 				<h1 class="black">{{ page.title }}</h1>
 				<h2 class="subline">{{ page.subtitle }}</h2>
 			</div>
@@ -29,7 +29,7 @@ layout: default
 			<div class="divider_30"></div>
 			<div class="article-footer">
 					<p>
-						Geschrieben von <strong>{{ site.author.name }}</strong> &mdash; am 
+						Geschrieben von <strong>{{ site.author.name }}</strong> &mdash; am
 {% assign m = page.date | date: "%-m" %}
 {{ page.date | date: "%-d" }}.
 {% case m %}
@@ -48,11 +48,11 @@ layout: default
 {% endcase %}
 {{ page.date | date: "%Y" }}.
 					</p>
-					
+
 					<div class="clearfix"></div>
 			</div>
 			</article>
-			
+
 
 			<div class="divider_30"></div>
 			<div class="divider_30"></div>
@@ -67,7 +67,7 @@ layout: default
 							<a href="{{ page.navigation.previous.link }}">{{ page.navigation.previous.title-full }}</a>
 							<div class="figure-overlay"></div>
 						</div>
-					</figcaption>		
+					</figcaption>
 				</figure>
 				<figure class="single-item-effect half">
 					<img src="{{ site.imagerepository }}{{ page.navigation.next.image }}" alt="{{ page.navigation.next.title }}"/>
@@ -78,7 +78,7 @@ layout: default
 							<a href="{{ page.navigation.next.link }}">{{ page.navigation.next.title-full }}</a>
 							<div class="figure-overlay"></div>
 						</div>
-					</figcaption>								
+					</figcaption>
 				</figure>
 				<div class="clearfix"></div>
 			</div>

@@ -39,11 +39,9 @@ Nachdem wir genug Flamingos und Salz gesehen haben sind wir in ein kleines Dörf
 
 Aus der Not heraus sind wir dann einfach weiter gefahren zu zwei benachbarten Vulkanen.  
 
-{% include image.html url="images-2015-chile/chile-2015-01-12_00019-1280x720.jpg" description="Eine durchaus..." %}
+{% include image.html url="images-2015-chile/chile-2015-01-12_00021-1280x720.jpg" description="Eine durchaus lebendige..." %}
 
 An dieser Stelle musste unser Auto leider etwas mehr erleiden – aber alles blieb heil. Die Strecke war noch unebener als die zu den Flamingos, aber auch ohne 4x4 zu befahren. Oben angekommen war es echt kalt – 16 Grad und Wind. Vorher waren wir bei ca. 30 Grad durch die Wüste gegangen. Die Landschaft ist trotzdem erstaunlich lebendig. Von der trockenen Salzwüste, hin zu den grüneren Gebieten um die Vulkane – mitsamt Reh-ähnlichen Tierchen.  
-
-{% include image.html url="images-2015-chile/chile-2015-01-12_00021-1280x720.jpg" description="... lebendige... " %}
 
 {% include image.html url="images-2015-chile/chile-2015-01-12_00023-1280x720.jpg" description="...Wüste." %}
 
