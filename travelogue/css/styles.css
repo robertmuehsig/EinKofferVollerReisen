@@ -2213,10 +2213,8 @@ header .overlay {
     height: 100%;
 } */
 .index-single figure.single-item-effect img {
-  /* customized - dont try to stretch the images
     width: -webkit-calc(100% + 50px);
     width: calc(100% + 50px);
-    */
     opacity: 0.7;
     -webkit-transition: opacity 0.50s, -webkit-transform 0.50s;
     transition: opacity 0.50s, transform 0.50s;
