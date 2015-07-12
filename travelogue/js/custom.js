@@ -42,8 +42,8 @@ jQuery(document).ready(function(jQuery){
 /* ### Ajax images ##################################################################### */
 var elements = document.getElementsByClassName('async-image');
 Array.prototype.filter.call(elements, function(element){
-    var img = new Image(); 
-    img.onload = function() { 
+    var img = new Image();
+    img.onload = function() {
        element.setAttribute("src",img.src);
        var title = document.getElementById('title');
        var title2 = document.getElementById('title2');
@@ -51,18 +51,18 @@ Array.prototype.filter.call(elements, function(element){
        if ( title ) {
        		//title.removeAttribute('style');
        		title.className = "title";
-       }         
+       }
        if ( title2 ) {
        		title2.className = "title";
-       }       
+       }
        if ( overlay ) {
        		//overlay.removeAttribute('style');
        		overlay.className = "overlay";
-       };       
+       };
     }
     var new_src = element.getAttribute("data-src");
     img.src = new_src;
-}); 
+});
 
 
 /* ### Fancy Search Form ##################################################################### */
@@ -109,19 +109,19 @@ function mobilecheck() {
 
 // uisearch.js v1.0.0
 ;( function( window ) {
-	
+
 	'use strict';
-	
+
 	!window.addEventListener && window.Element && (function () {
 	   function addToPrototype(name, method) {
 		  Window.prototype[name] = HTMLDocument.prototype[name] = Element.prototype[name] = method;
 	   }
-	 
+
 	   var registry = [];
-	 
+
 	   addToPrototype("addEventListener", function (type, listener) {
 		  var target = this;
-	 
+
 		  registry.unshift({
 			 __listener: function (event) {
 				event.currentTarget = target;
@@ -133,17 +133,17 @@ function mobilecheck() {
 				event.relatedTarget = event.fromElement || null;
 				event.target = event.srcElement || target;
 				event.timeStamp = +new Date;
-	 
+
 				listener.call(target, event);
 			 },
 			 listener: listener,
 			 target: target,
 			 type: type
 		  });
-	 
+
 		  this.attachEvent("on" + type, registry[0].__listener);
 	   });
-	 
+
 	   addToPrototype("removeEventListener", function (type, listener) {
 		  for (var index = 0, length = registry.length; index < length; ++index) {
 			 if (registry[index].target == this && registry[index].type == type && registry[index].listener == listener) {
@@ -151,7 +151,7 @@ function mobilecheck() {
 			 }
 		  }
 	   });
-	 
+
 	   addToPrototype("dispatchEvent", function (eventObject) {
 		  try {
 			 return this.fireEvent("on" + eventObject.type, eventObject);
@@ -164,15 +164,20 @@ function mobilecheck() {
 		  }
 	   });
 	})();
-	
+
 	!String.prototype.trim && (String.prototype.trim = function() {
 		return this.replace(/^\s+|\s+$/g, '');
 	});
 
-	function UISearch( el, options ) {	
-		this.el = el;
-		this.inputEl = el.querySelector( 'form > input.travelogue-search-input' );
-		this._initEvents();
+	function UISearch( el, options ) {
+
+		// customized, because we have no general search
+
+		if(el !== null) {
+			this.el = el;
+			this.inputEl = el.querySelector( 'form > input.travelogue-search-input' );
+			this._initEvents();
+		}
 	}
 
 	UISearch.prototype = {
@@ -182,7 +187,7 @@ function mobilecheck() {
 					ev.stopPropagation();
 					// trim its value
 					self.inputEl.value = self.inputEl.value.trim();
-					
+
 					if( !classie.has( self.el, 'travelogue-search-open' ) ) { // open it
 						ev.preventDefault();
 						self.open();
@@ -222,5 +227,3 @@ function mobilecheck() {
 
 	window.UISearch = UISearch;
 } )( window );
-
-
