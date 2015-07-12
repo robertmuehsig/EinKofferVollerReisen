@@ -57,18 +57,18 @@ URL:        http://modeltheme.com/travelogue/
 
 *,
 *:after,
-*:before {
+*:before { 
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-.clearfix:before,
-.clearfix:after {
-    display: table;
+.clearfix:before, 
+.clearfix:after { 
+    display: table; 
     content: '';
 }
-.clearfix:after {
-    clear: both;
+.clearfix:after { 
+    clear: both; 
 }
 html {
     font-family: "open sans";
@@ -254,7 +254,7 @@ input,
 textarea{
     font-family: "open sans";
 }
-.index-contact input:focus,
+.index-contact input:focus, 
 .index-contact textarea:focus {
     border: 0 none;
 }
@@ -977,7 +977,7 @@ table > thead > tr > th, table > tbody > tr > th, table > tfoot > tr > th, table
     color:    #FFF;
     opacity: 0.7;
 }
-.travelogue-icon-search,
+.travelogue-icon-search, 
 .travelogue-search-submit {
     cursor: pointer;
     display: block;
@@ -1494,7 +1494,7 @@ body .cd-primary-nav-trigger:before {
 .cd-primary-nav-trigger.is-clicked .cd-menu-icon {
   background-color: rgba(255, 255, 255, 0);
 }
-.cd-primary-nav-trigger.is-clicked .cd-menu-icon::before,
+.cd-primary-nav-trigger.is-clicked .cd-menu-icon::before, 
 .cd-primary-nav-trigger.is-clicked .cd-menu-icon::after {
   background-color: white;
 }
@@ -1922,9 +1922,8 @@ header .overlay {
 }
 .index-home figure.single-item-effect img,
 .index-category figure.single-item-effect img {
-    /* customized - dont try to stretch the images
     width: -webkit-calc(100% + 50px);
-    width: calc(100% + 50px); */
+    width: calc(100% + 50px);
     opacity: 0.7;
     -webkit-transition: opacity 0.50s, -webkit-transform 0.50s;
     transition: opacity 0.50s, transform 0.50s;
@@ -2062,7 +2061,7 @@ header .overlay {
     margin: 0;
     text-transform: uppercase;
     text-shadow: 1px 2px 5px rgba(0, 0, 0, 0.7);
-    -webkit-text-shadow: 1px 2px 5px rgba(0, 0, 0, 0.7);
+    -webkit-text-shadow: 1px 2px 5px rgba(0, 0, 0, 0.7);    
 }
 .index-single .modify .title{
     transform: translateX(-50%) translateY(10%);
@@ -2102,9 +2101,9 @@ header .overlay {
 .index-home figure.single-item-effect h2 {
     padding-left: 10px !important;
 }
-.index-category figure.single-item-effect:hover h2,
+.index-category figure.single-item-effect:hover h2, 
 .index-category figure.single-item-effect:hover p,
-.index-home figure.single-item-effect:hover h2,
+.index-home figure.single-item-effect:hover h2, 
 .index-home figure.single-item-effect:hover p{
     transform: translate3d(0px, 6px, 0px) !important;
 }
@@ -2425,7 +2424,7 @@ header .overlay {
     line-height: normal;
     margin-bottom: 0;
 }
-.travelogue_comments .single_comment:hover .comment_author img,
+.travelogue_comments .single_comment:hover .comment_author img, 
 .travelogue_comments .single_comment:hover .comment_body {
     border-color: rgba(50, 152, 152,.6);
     transition: all 500ms ease 0s;
@@ -2615,8 +2614,8 @@ input, textarea {
     font-size: 40px;
     opacity: 0;
 }
-.questions textarea.focus-me {
-    resize: none;
+.questions textarea.focus-me { 
+    resize: none; 
 }
 .questions textarea.focus-me:focus,
 .questions textarea.focus-me:active,
@@ -2855,7 +2854,7 @@ input[type=text]::-ms-clear {
     transition: height 0.3s;
 }
 .index-contact .show-textarea textarea.focus-me {
-    height: 168px;
+    height: 168px;  
 }
 .index-contact .title p.subline {
     line-height: 60px;
@@ -2923,7 +2922,7 @@ label.label {
     margin: 0 !important;
     text-align: center;
     width: 100%;
-}
+}   
 .fa.fa-spinner.rotating {
     color: #16a086;
     float: left;
@@ -2994,7 +2993,7 @@ label.label {
 .index-gallery .gallery-open .header {
     z-index: 10;
 }
-body.gallery-open .cd-primary-nav-trigger,
+body.gallery-open .cd-primary-nav-trigger, 
 body.gallery-open .sound {
     z-index: 10;
 }
@@ -3183,7 +3182,7 @@ span.nav-close:before, span.nav-close:after {
     top: 10px;
     width: 100%;
 }
-span.nav-close:before {
+span.nav-close:before {     
     -webkit-transform: rotate(-135deg);
     -moz-transform: rotate(-135deg);
     -ms-transform: rotate(-135deg);
@@ -3273,9 +3272,9 @@ span.nav-close:after {
 }
 /* Gallery Arrows */
 .prev-container li,
-.nex-container li {
+.nex-container li {    
     position: absolute;
-    top: 50%;
+    top: 50%;    
     background: rgba(39, 38, 43,0.8);
     -webkit-transition: -webkit-transform 0.3s;
     transition: transform 0.3s;
@@ -3307,14 +3306,14 @@ span.nav-close:after {
 }
 .slideshow .prev-container:hover .current {
     -webkit-transform: translateY(-50%) translateX(0%);
-    transform: translateY(-50%) translateX(0%);
+    transform: translateY(-50%) translateX(0%);    
 }
 .slideshow nav > div li img {
     position: absolute;
     right: 0;
     top: 50%;
     margin-top: -45px;
-}
+} 
 .content > div:not(.title) .gallery-title,
 .content > div:not(.title) .gallery-subtitle {
     white-space: nowrap;
@@ -4336,7 +4335,7 @@ nav.gallery-nav > div > span.nav-next {
 .index-single #container > .title,
 .index-single #container > article {
     background: #ddd;
-}
+} 
 .index-single.st-effect-2 #container,
 .index-single.features #container{
     position: relative;
@@ -4391,7 +4390,7 @@ body.st-effect-3.menu-open .st-menu.st-effect-1 {
 /*---------------------------------------------*/
 /*--- 10. CSS FOR CHROME ---*/
 /*---------------------------------------------*/
-@media screen and (-webkit-min-device-pixel-ratio:0) {
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
     .travelogue-search-open .travelogue-search-input,
     .index-contact .travelogue-search-open .travelogue-search-input {
         padding: 9px;
