@@ -23,7 +23,7 @@ Los ging es also mit dem Frühstück in unserer Lodge, welches so ziemlich einem
 
 ## Salar de Atacama
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d468341.0409702637!2d-68.24999999999999!3d-23.49959315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96a8fa058ec18ecb%3A0xe467ef5c09abee71!2sSalar+de+Atacama%2C+San+Pedro+de+Atacama%2C+Regi%C3%B3n+de+Antofagasta%2C+Chile!5e0!3m2!1sde!2sch!4v1435513099731" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+{% include googlemaps.html url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d468341.0409702637!2d-68.24999999999999!3d-23.49959315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96a8fa058ec18ecb%3A0xe467ef5c09abee71!2sSalar+de+Atacama%2C+San+Pedro+de+Atacama%2C+Regi%C3%B3n+de+Antofagasta%2C+Chile!5e0!3m2!1sde!2sch!4v1435513099731" %}
 
 Nach der Stärkung ging es dann los zum „Salar de Atacama“, eine Salzwüste mit ein paar kleineren Seen in denen Flamingos beheimatet sind. Die erste Stunde Fahrt war auf einer gut ausgebauten Strasse, danach ging es zu einer etwas unebeneren Strasse. Ein Jeep wäre praktischer gewesen, aber auch unsere Limousine hat es überlebt. Wirklich viel Verkehr ist in der Gegend da nicht unterwegs – aller 10 Minuten sieht man vielleicht mal ein anderes Auto, ansonsten ist es ziemlich ruhig. Wenn man mal an der Strasse anhält um zu fotografieren hört man genau nichts. Toten Still. Es war noch nicht mal besonders warm in der Wüste, sogar recht angenehm, aber keine Geräusche.  
 
@@ -55,7 +55,7 @@ Der Park an sich ist nett, allerdings hatten wir bei der Hinfahrt sogar einen h�
 
 {% include image.html url="images-2015-chile/chile-2015-01-13_00030-1280x720.jpg" description="Überblick über Valle de la Luna" %}
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3674.663916046917!2d-68.28799259999998!3d-22.925763899999993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96a972ff8dc8582d%3A0x7ad176d2c4b12f43!2sValle+de+la+Luna!5e0!3m2!1sde!2sch!4v1435521541254" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+{% include googlemaps.html url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3674.663916046917!2d-68.28799259999998!3d-22.925763899999993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96a972ff8dc8582d%3A0x7ad176d2c4b12f43!2sValle+de+la+Luna!5e0!3m2!1sde!2sch!4v1435521541254" %}
 
 Wieder in San Pedro angekommen waren wir noch was essen – wobei auch hier wieder eine gewisse Hürde aufgrund unserer Spanisch-Kenntnisse vorhanden war – und das war es dann für den ersten Tag.
 

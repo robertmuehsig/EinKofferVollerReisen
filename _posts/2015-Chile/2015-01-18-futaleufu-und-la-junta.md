@@ -24,7 +24,7 @@ Weg von Chaiten ging es erstmal die Routa 7 weiter entlang. Wir wollten allerdin
 
 {% include image.html url="images-2015-chile/chile-2015-01-18_00085-1280x720.jpg" description="Kleiner Blick auf den Fluss" %}
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11636.993422145493!2d-71.86670000000001!3d-43.18329945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x961e765652f4e2c9%3A0x68c917d5009905fd!2sFutaleuf%C3%BA%2C+Los+Lagos+Region%2C+Chile!5e0!3m2!1sde!2sch!4v1436436750974" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+{% include googlemaps.html url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11636.993422145493!2d-71.86670000000001!3d-43.18329945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x961e765652f4e2c9%3A0x68c917d5009905fd!2sFutaleuf%C3%BA%2C+Los+Lagos+Region%2C+Chile!5e0!3m2!1sde!2sch!4v1436436750974" %}
 
 Die Schotterpiste führte vorbei an verschiedenen hübschen Seen und folgt immer einem Fluss der zum Rafting gut geeignet ist. Wir brauchten bis zu dem Örtchen ca. 2 Stunden ab der Routa 7. Direkt als wir im Ort angekommen sind hat auch einer unserer Reifen nachgegeben – argh. Glück im Unglück: Die erste Dame die wir ansprachen konnte deutsch und hat uns an eine Werkstatt kaum 200 Meter entfernt verwiesen. Zuerst kamen Zweifel auf ob die überhaupt an einem Sonntag noch auf hatten, aber diese waren unbegründet.  
 
@@ -41,6 +41,6 @@ In unserem Reiseführer (von 2013) steht drin dass die Routa 7 insgesamt eher ei
 
 ## La Junta
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22968.944149656116!2d-72.41313899999999!3d-43.977608849999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xbdf5a3d8f7df5055%3A0x505489f556b7d76c!2sLa+Junta+Airport!5e0!3m2!1sen!2sde!4v1436437079452" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+{% include googlemaps.html url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22968.944149656116!2d-72.41313899999999!3d-43.977608849999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xbdf5a3d8f7df5055%3A0x505489f556b7d76c!2sLa+Junta+Airport!5e0!3m2!1sen!2sde!4v1436437079452" %}
 
 La Junta selbst ist halt so ein Städtchen. Man findet es aber kaum über Google Maps - jedenfalls gibt es noch ein anderes La Junta weit weit südlicher, aber eigentlich kann man es nicht verfehlen weil es direkt an der Routa 7 ist. Zum grossen Teil besteht es eigentlich aus Hostels oder kleine Häuserchens. Zum Übernachten reicht es und unsere „Cabana“ (ist quasi ein Bungalow) war ziemlich gut ausgestattet.

@@ -26,7 +26,7 @@ Die Strassen um Puerto Montt sind gut ausgebaut und es gibt sogar eine Autobahn 
 
 ## Insel Chileo
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1500678.3530216615!2d-73.9538432!3d-42.72462809999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x962221c6f7f1ff8f%3A0xe1cde5a63dc08617!2sChilo%C3%A9+Province%2C+Los+Lagos+Region%2C+Chile!5e0!3m2!1sen!2sde!4v1435522880946" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+{% include googlemaps.html url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1500678.3530216615!2d-73.9538432!3d-42.72462809999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x962221c6f7f1ff8f%3A0xe1cde5a63dc08617!2sChilo%C3%A9+Province%2C+Los+Lagos+Region%2C+Chile!5e0!3m2!1sen!2sde!4v1435522880946" %}
 
 Die Insel Chileo ist landschaftlich sehr hübsch und ist so ein Mittelding zwischen Strand/Dünen-Umgebung und Mitteleuropa. Die Städtchen wirken allerdings eher skandinavisch. Die Insel enthält einige Attraktionen, aufgrund der vorangeschrittenen Zeit und der Entfernungen auf der grossen Insel, konnten wir „nur“ Pinguine beobachten und ein altes spanisches Fort.
 

@@ -20,7 +20,7 @@ navigation:
 ---
 Unser Flug ging erst gegen 13.00 Uhr, daher war die Abgabe des Mietwagens und co. recht entspannt. Von Calama ging die Reise erst nach Santiago und dann nach Puerto Montt. Wir haben uns bewusst relativ viel Puffer in Santiago gelassen (oder es gab keine günstigeren Flüge mehr… wir wissen es nicht mehr so genau), sodass wir eigentlich gegen 20.45 Uhr in Puerto Montt ankommen sollten. Hier kamen jetzt ein paar Schwierigkeiten auf uns zu – die wir aber schon bei der Buchung so geahnt hatten:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d47838.796403754044!2d-72.94801809999998!3d-41.46254685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96183a4d6920f407%3A0x86a3f15a79a5c9df!2sPuerto+Montt%2C+Regi%C3%B3n+de+los+Lagos%2C+Chile!5e0!3m2!1sde!2sch!4v1435522124736" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+{% include googlemaps.html url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d47838.796403754044!2d-72.94801809999998!3d-41.46254685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96183a4d6920f407%3A0x86a3f15a79a5c9df!2sPuerto+Montt%2C+Regi%C3%B3n+de+los+Lagos%2C+Chile!5e0!3m2!1sde!2sch!4v1435522124736" %}
 
 Unsere Autovermietung Alamo macht offiziell ihren Schalter 21.00 Uhr zu. Dazu kommt dass wir für die Grenzüberquerung nach Argentinien eine Erlaubnis benötigen – laut Internet kann diese Erlaubnis 1 bis 2 Tage dauern und die Autovermietung kann dies erst ausfüllen wenn man vor dem Schalter steht. In Puerto Montt selber sind wir aber nur 2 Tage. Dazu kommt das wir demnächst eine Fähre buchen müssen – dies geht allerdings auch nur mit dem besagtem Auto, weil man das Kennzeichen angeben muss.
 

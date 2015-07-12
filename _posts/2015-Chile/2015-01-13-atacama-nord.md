@@ -51,7 +51,7 @@ Nach einer gefühlten Ewigkeit sind wir dann bei El Tatio angekommen. Die offizi
 
 {% include image.html url="images-2015-chile/chile-2015-01-14_00050-1280x720.jpg" description="Sowas wie Rehe beim El Tatio" %}
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.97797609634!2d-67.9991418!3d-22.278824099999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96aa319c27b9c0df%3A0xd628ff71ef07a8dc!2sGeisers+del+tatio!5e0!3m2!1sde!2sch!4v1435521731878" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+{% include googlemaps.html url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.97797609634!2d-67.9991418!3d-22.278824099999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96aa319c27b9c0df%3A0xd628ff71ef07a8dc!2sGeisers+del+tatio!5e0!3m2!1sde!2sch!4v1435521731878" %}
 
 ## Und zurück nach San Pedro...
 
