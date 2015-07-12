@@ -28,6 +28,8 @@ Bei der Ausfahrt eines kleinen Dorfes haben wir uns dann entschlossen einen Anha
 
 Durch Torben sind wir auf einen Gletscher hingewiesen worden den wir ansonsten wohl übersehen hätten. Kurz von der Routa 7 abgebogen ging es in den Wald hinein Richtung Berge. Am Ende (nach dem Bezahlhäuschen) gab es zwei Wege den Gletscher zu sehen:
 
+{% include image.html url="images-2015-chile/chile-2015-01-19_00138-1280x720.jpg" description="Weg zum Gletscher Aussichtspunkt" %}
+
 {% include image.html url="images-2015-chile/chile-2015-01-19_00087-1280x720.jpg" description="Weg zum Gletscher Aussichtspunkt" %}
 
 Man konnte eine ca. 2,5 Stündige Tour auf den Berg machen oder einen kurzen Weg durch den Wald gehen und den Gletscher von unten bestaunen. Wir drei hatten uns dann für den kurzen Weg entschieden und konnten den Gletscher auch von unten relativ gut sehen.
@@ -39,8 +41,6 @@ Man konnte eine ca. 2,5 Stündige Tour auf den Berg machen oder einen kurzen Weg
 Danach ging es weiter nach Coihaique. Die Strassenverhältnisse waren allerdings alles andere als gut – was am Anfang noch asphaltiert war verwandelte sich erst zu einer Schotterpiste und später in eine Huggelpiste aus Erde. Durch den Reifenvorfall vom Vortag waren wir etwas sensibilisiert.
 
 Am Nachmittag mussten wir eine Zwangspause machen, da es Sprengungen auf der Strecke gibt. Das Baupersonal wies uns darauf hin dass es erst gegen 17 Uhr weitergeht – also pausierten wir erstmal drei Stunden – glücklicherweise direkt neben einem Fjord. Torben konnte während der Zeit ein paar seiner Geschichten erzählen uns eigentlich war es gar nicht so schlecht. Blöd war allerdings dass wir ca. noch 4 Stunden bis Coihaique vor uns hatten.
-
-{% include image.html url="images-2015-chile/chile-2015-01-19_00138-1280x720.jpg" description="Weg nach Coihaique" %}
 
 {% include image.html url="images-2015-chile/chile-2015-01-19_00139-1280x720.jpg" description="Weg nach Coihaique" %}
 
