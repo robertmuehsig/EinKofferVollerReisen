@@ -3,7 +3,7 @@ layout: post
 title: "El Chalten"
 subtitle: "Bootsfahrt zum Gletscher"
 category: 2015-Chile
-header-image: "images-2015-chile/chile-2015-01-23_00107-1280x720.jpg"
+header-image: "images-2015-chile/chile-2015-01-23_00109-1280x720.jpg"
 navigation:
   previous:
     title-small: "22. Januar"

@@ -14,7 +14,7 @@ navigation:
     title-small: "23. Januar"
     title-bold: "Gletscher"
     title-full: "23. Januar: Bootsfahrt zum Gletscher"
-    image: "images-2015-chile/chile-2015-01-23_00107-965x350.jpg"
+    image: "images-2015-chile/chile-2015-01-23_00109-965x350.jpg"
     link: "/2015-chile/el-chalten-gletscher"
 ---
 
