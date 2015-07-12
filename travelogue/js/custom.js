@@ -67,34 +67,6 @@ Array.prototype.filter.call(elements, function(element){
 
 /* ### Fancy Search Form ##################################################################### */
 jQuery( document ).ready(function( $ ) {
-	new UISearch( document.getElementById( 'travelogue-search' ) );
-	jQuery('#st-container').load('nav.html', function() {
-		//Begin: MailChimp JS
-		jQuery('#invite').ketchup().submit(function(evt) {
-			evt.preventDefault();
-			if (jQuery(this).ketchup('isValid')) {
-				var action = jQuery(this).attr('action');
-
-				jQuery.ajax({
-					url: action,
-					type: 'POST',
-					data: {
-						email: jQuery('#address').val()
-					},
-					success: function(data){
-						jQuery('#result').html(data).css('color', '#35cf76');
-					},
-					error: function() {
-						jQuery('#result').html('Sorry, an error occurred.').css('color', '#e74c3c');
-					}
-				});
-			}else{
-				jQuery('#result').html('Please enter an valid email address.').css('color', '#e74c3c');
-			}
-			return false;
-		});
-		//End: MailChimp JS
-	});
 	jQuery( "#trigger-menu" ).click(function() {
 		jQuery('.travelogue-search').fadeToggle('fast');
 	});
