@@ -25,8 +25,16 @@ Auf zum zweiten und letzten Zielpunkt in Argentinien: El Calafate, also weiter s
 
 Die Strasse zwischen El Chalten und El Calafate war ziemlich gut ausgebaut, sodass wir auch recht schnell Voran kamen. Von der Routa 40 geht es ein paar Kilometer in die Stadt hinein. Da es erst Mittag war sind wir gleich zum 100km entfernten Gletscher weitergefahren. Die Landschaft war wie immer etwas karg, aber je näher man dem Nationalpark (mit dem Gletscher) kommt desto grüner und etwas waldiger wird es auch.
 
+## Der Gletscher
+
+{% include image.html url="images-2015-chile/chile-2015-01-24_00120-1280x720.jpg" description="Gletschereis" %}
+
 Um den grossen Gletscher zu sehen muss man pro Person ca. 25 USD zahlen. Man fährt noch etliche Kilometer durch den Nationalpark bis man bei einem Parkplatz rauskommt. Während der Fahrt sieht man schon die gewaltigen Eismassen.
 
+{% include image.html url="images-2015-chile/chile-2015-01-24_00121-1280x720.jpg" description="Gletschereis" %}
+
 Man kommt relativ nah an den Gletscher ran und der Zugang ist sogar barrierefrei gemacht, sodass Jung und Alt einen Blick darauf werfen können. Es gibt verschiedene Aussichtsplattformen auf verschiedenen Höhen, sodass man da gut eine Weile verbringen kann. Man hört auch immer mal wieder das Knacken des Eises und wie sich der Gigant bewegt – nettes Fleckchen also.
+
+{% include image.html url="images-2015-chile/chile-2015-01-24_00123-1280x720.jpg" description="Gletschereis" %}
 
 In El Calafate haben wir noch was gegessen und den Abend ruhig ausklingen lassen.
