@@ -28,10 +28,10 @@ Am Lago Grey ist auch ein grosser Gletscher zu finden, welchen man auch wieder p
 
 Landschaftlich hübsch, aber ein eisiger Wind verdirbt einem doch die Wanderlaune. Nach einiger Zeit dort haben wir noch eine Kleinigkeit zu uns genommen und sind dann noch durch den Park zu einem anderen See inkl. Wasserfall gefahren.
 
-{% include image.html url="images-2015-chile/chile-2015-01-26_00130-1280x720.jpg" description="...und bergen..." %}
+{% include image.html url="images-2015-chile/chile-2015-01-26_00130-1280x720.jpg" description="...und die berühmten Bergspitzen..." %}
 
 Da das Wetter sich nicht besserte haben wir im Anschluss nur noch einen Spaziergang bei unserer Unterkunft gemacht – ein ziemlich ruhiger Tag also.
 
-{% include image.html url="images-2015-chile/chile-2015-01-26_00132-1280x720.jpg" description="... ziemlich hübsch." %}
+{% include image.html url="images-2015-chile/chile-2015-01-26_00132-1280x720.jpg" description="... sind doch recht hübsch." %}
 
 Für Wander-Fans ist der Park definitiv was, aber so richtig vom Hocker gehauen hat er uns nun auch nicht.
