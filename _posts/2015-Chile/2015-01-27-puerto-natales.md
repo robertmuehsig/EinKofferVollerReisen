@@ -41,10 +41,10 @@ Besonders interessant waren die Wälder in der Gegend. Irgendein moosartiges Pfl
 
 {% include image.html url="images-2015-chile/chile-2015-01-27_00135-1280x720.jpg" description="Seltsame... " %}
 
-{% include image.html url="images-2015-chile/chile-2015-01-27_00134-1280x720.jpg" description="... und etwas gruslige Pflanzen." %}
+{% include image.html url="images-2015-chile/chile-2015-01-27_00134-1280x720.jpg" description="... und etwas gruselige Pflanzen." %}
 
 Oben angekommen waren wir etwas enttäuscht – der Berg wird auch benutzt für die Funkmasten der Stadt, sodass wir oben nur die Masten und eine Baustelle fanden. Also wieder zurück den ganzen Weg.
 
-{% include image.html url="images-2015-chile/chile-2015-01-27_00146-1280x720.jpg" description="Blick Puerto Natales" %}
+{% include image.html url="images-2015-chile/chile-2015-01-27_00146-1280x720.jpg" description="Blick über Puerto Natales" %}
 
 Den Abend haben wir einfach nur in der Unterkunft ausklingen lassen. Unsere vorletzte Nacht Richtung Süden.
