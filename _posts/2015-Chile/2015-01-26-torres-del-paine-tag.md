@@ -18,7 +18,7 @@ navigation:
     image: "images-2015-chile/chile-2015-01-27_00136-965x350.jpg"
     link: "/2015-chile/puerto-natales"
 ---
-Aufwachen im Park mit Blick auf die... wolkenverhangenen... Berge. Das erste Mal dass das Wetter nicht so wollte wie wir. Geplant war an dem Tag den riesigen Park näher zu erkunden. Es gibt ziemlich viele Wanderwege, die meisten benötigen aber 4 Stunden und weit mehr, daher hatten wir uns eine kleine Route am Lago Grey rausgesucht.
+Aufwachen im Park mit Blick auf die... wolkenverhangenen... Berge. Das erste Mal, dass das Wetter nicht so wollte wie wir. Geplant war an dem Tag den riesigen Park näher zu erkunden. Es gibt ziemlich viele Wanderwege, die meisten benötigen aber 4 Stunden und weit mehr, daher hatten wir uns eine kleine Route am Lago Grey rausgesucht.
 
 {% include image.html url="images-2015-chile/chile-2015-01-26_00044-1280x720.jpg" description="Der Park erstreckt sich recht weit..." %}
 
