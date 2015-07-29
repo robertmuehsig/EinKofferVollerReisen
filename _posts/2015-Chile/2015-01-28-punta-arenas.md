@@ -26,8 +26,18 @@ Endspurt zu unserem letzten Ziel: Punta Arenas. Ca. 250km entfernt. Die Fahrt da
 
 ## Die Pinguinkolonie
 
+{% include image.html url="images-2015-chile/chile-2015-01-28_00005-1280x720.jpg" description="Piepmatz" %}
+
+{% include image.html url="images-2015-chile/chile-2015-01-28_00006-1280x720.jpg" description="Pinguingebiet... ohne Pinguine." %}
+
 Die Kolonie erreicht man (natürlich) über eine Schotterpiste und es gibt komischerweise zwei Bezahlstationen, aber die Preise hielten sich in Grenzen. Auf dem Gelände gibt es einen festen Weg, wobei der Grossteil des Weges um eine Graslandschaft herumführt. Wir hatten viele Löcher gesehen und vermuten dass die Pinguine da nisten, allerdings haben wir nur zwei Exemplare im Gras gesehen. Eine kleine Gruppe konnten wir am Strand beobachten – wirklich putzige kleine Geschöpfe. Auf einer Info-Tafel hatte ich gelesen dass es insgesamt da 10.000 Pinguine geben soll, wir selbst hatten aber nur ein paar Dutzend gesehen – entweder falsche Zeit oder die Tierchen sind irgendwo wo Menschen nicht so einfach hin spazieren können (was auch vollkommen in Ordnung ist).
 
+{% include image.html url="images-2015-chile/chile-2015-01-28_00139-1280x720.jpg" description="Pinguine am Strand..." %}
+
+{% include image.html url="images-2015-chile/chile-2015-01-28_00141-1280x720.jpg" description="... noch mehr Pinguine" %}
+
 Weiter von den Pinguinen ging es dann am Flughafen vorbei in die südlichste Stadt (auf dem Festland). Es ist nicht ganz klar was wirklich die südlichste Stadt ist, da Punta Arenas mehr Einwohner hat, aber das argentinische Ushuaia etwas südlicher liegt. Naja… ist ja auch egal, man ist hier sehr weit im Süden.
+
+{% include image.html url="images-2015-chile/chile-2015-01-28_00143-1280x720.jpg" description="Pinguine im Gras" %}
 
 In der Stadt selbst gibt es etliche Restaurants und Cafes und dort trafen wir den Wolfgang. Wolfgang selbst ist pensionierter Lehrer aus Kulmbach und reist allein. Es war ein ganz nettes Gespräch und Wolfgang redet sehr gern und viel. Nach ca. einer Stunde trennten sich unsere Wege wieder und wir haben noch etwas die Stadt erkundet und waren in einem hübschen Restaurant am Ende noch was essen (La Luna – sehr verspieltes, aber hübsches Restaurant) und dann gings ins Hostel.
