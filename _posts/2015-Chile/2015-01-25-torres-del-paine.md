@@ -28,7 +28,7 @@ Tägliche Berichte sind nicht leicht auf so einem Roadtrip. Daher erstmal das wi
 
 An der Argentinischen/Chilenischen Grenze wieder die Stempel abgeholt und die Papiere entgegengenommen und weiter. Merke: Die Zettel sind wirklich, wirklich wichtig (scheinbar).
 
-## Torres des Paine
+## Torres del Paine
 
 Nach der Grenze ging es direkt zum Nationalpark Torres del Paine, für den man Eintritt zahlen muss (18.000 Chilenische Pesos pro Personen). Uns wurde noch der Weg zu unserer Hosteria beschrieben, welcher quasi einmal quer durch den Park für ca. 55km führt. Auf dem Weg begegneten uns wieder etliche dieser „chilenischen“ Rehe und wir haben sogar einen Puma samt Jungen über die Strasse flitzen sehen. Rings um den Park sieht man zudem die charakteristischen, mit Schnee bedeckten,  Berge.
 
