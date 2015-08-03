@@ -22,7 +22,7 @@ navigation:
 
 Weg von Chaiten ging es erstmal die Routa 7 weiter entlang. Wir wollten allerdings einen kleinen Umweg machen nach Futaleufú. Der Ort ist bekannt als Ausflugsziel und nicht sehr weit von der argentinischen Grenze.
 
-{% include image.html url="images-2015-chile/chile-2015-01-18_00085-1280x720.jpg" description="Kleiner Blick auf den Fluss" %}
+{% include image.html url="images-2015-chile/chile-2015-01-18_00085-1280x720.jpg" bigUrl="images-2015-chile/chile-2015-01-18_00085-1920x1080.jpg" rel="day-gallery"  description="Kleiner Blick auf den Fluss" %}
 
 {% include googlemaps.html url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11636.993422145493!2d-71.86670000000001!3d-43.18329945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x961e765652f4e2c9%3A0x68c917d5009905fd!2sFutaleuf%C3%BA%2C+Los+Lagos+Region%2C+Chile!5e0!3m2!1sde!2sch!4v1436436750974" %}
 
@@ -34,7 +34,7 @@ Das Örtchen ist mitten im Niemandsland, daher hatten wir erst etwas bedenken ob
 
 Zurück zur eigentlich Stadt: Wirklich viel gibt’s da nicht zu sehen, aber es gibt viele Hostels und zumindest ein sehr gutes Restaurant, sodass wir den Ort schon empfehlen können.
 
-{% include image.html url="images-2015-chile/chile-2015-01-18_00084-1280x720.jpg" description="Flusslandschaft" %}
+{% include image.html url="images-2015-chile/chile-2015-01-18_00084-1280x720.jpg" bigUrl="images-2015-chile/chile-2015-01-18_00084-1920x1080.jpg" rel="day-gallery"  description="Flusslandschaft" %}
 
 Da es nun schon Nachmittag war mussten wir jetzt wieder aufbrechen – zurück über den Schotterweg zur Routa 7 und dann zum Örtchen La Junta.  
 In unserem Reiseführer (von 2013) steht drin dass die Routa 7 insgesamt eher eine Schotterpiste ist, allerdings sind die Chilenen auch ein ziemlich fleissiges Völkchen. Bis auf 40km war die Strasse komplett neu und ich kann mir vorstellen dass auch die restlichen 40km demnächst asphaltiert werden.  
