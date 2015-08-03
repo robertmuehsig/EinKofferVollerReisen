@@ -28,7 +28,7 @@ Eine Sache für den Grenzübergang zwischen Chile und Argentinien: Man benötigt
 
 Die Routa 40 führt durch ganz Argentinien und das Stück zwischen uns und El Chalten war eigentlich auch gut ausgebaut und man kann gut durch platzen. Die Landschaft ist eher „steppig“ und äusserst windig und eher karg. Es ging allerdings (jedenfalls auf unseren Abschnitt) auch 80km über eine Schotterpiste.
 
-{% include image.html url="images-2015-chile/chile-2015-01-22_00103-1280x720.jpg" description="Schnappschuss..." %}
+{% include image.html url="images-2015-chile/chile-2015-01-22_00103-1280x720.jpg" bigUrl="images-2015-chile/chile-2015-01-22_00103-1920x1080.jpg" rel="day-gallery" description="Schnappschuss..." %}
 
 Tanken sollte man sobald man eine Tankstelle sieht – zum Teil sind wir ein paar Stunden durchs Niemandsland gefahren.
 
@@ -38,4 +38,4 @@ Anders als in Chile ist das Geldholen in Argentinien gar nicht so einfach: Die m
 
 Nach langer, langer Fahrt sind wir dann in El Chalten angekommen. Was für ein Touri-Dorf. Ähnlich wie San Pedro de Atacama sah man überall Backpacker und andere Touris mit ihren riesen Rucksäcken. Das Städtchen bietet relativ viele Restaurants, manche nehmen sogar Kreditkarten – Yeah! - und Übernachtungsmöglichkeiten. Hübsch ist natürlich der Anblick des Fitz Roy im Hintergrund des Dörfchens.
 
-{% include image.html url="images-2015-chile/chile-2015-01-23_00104-1280x720.jpg" description="Fitz Roy" %}
+{% include image.html url="images-2015-chile/chile-2015-01-23_00104-1280x720.jpg" bigUrl="images-2015-chile/chile-2015-01-23_00104-1920x1080.jpg" rel="day-gallery" description="Fitz Roy" %}
