@@ -27,14 +27,14 @@ Die Strasse zwischen El Chalten und El Calafate war ziemlich gut ausgebaut, soda
 
 ## Der Gletscher
 
-{% include image.html url="images-2015-chile/chile-2015-01-24_00120-1280x720.jpg" description="Gletschereis" %}
+{% include image.html url="images-2015-chile/chile-2015-01-24_00120-1280x720.jpg" bigUrl="images-2015-chile/chile-2015-01-24_00120-1920x1080.jpg" rel="day-gallery" description="Gletschereis" %}
 
 Um den grossen Gletscher zu sehen muss man pro Person ca. 25 USD zahlen. Man fährt noch etliche Kilometer durch den Nationalpark bis man bei einem Parkplatz rauskommt. Während der Fahrt sieht man schon die gewaltigen Eismassen.
 
-{% include image.html url="images-2015-chile/chile-2015-01-24_00121-1280x720.jpg" description="Gletschereis" %}
+{% include image.html url="images-2015-chile/chile-2015-01-24_00121-1280x720.jpg" bigUrl="images-2015-chile/chile-2015-01-24_00121-1920x1080.jpg" rel="day-gallery" description="Gletschereis" %}
 
 Man kommt relativ nah an den Gletscher ran und der Zugang ist sogar barrierefrei gemacht, sodass Jung und Alt einen Blick darauf werfen können. Es gibt verschiedene Aussichtsplattformen auf verschiedenen Höhen, sodass man da gut eine Weile verbringen kann. Man hört auch immer mal wieder das Knacken des Eises und wie sich der Gigant bewegt – nettes Fleckchen also.
 
-{% include image.html url="images-2015-chile/chile-2015-01-24_00123-1280x720.jpg" description="Gletschereis" %}
+{% include image.html url="images-2015-chile/chile-2015-01-24_00123-1280x720.jpg" bigUrl="images-2015-chile/chile-2015-01-24_00123-1920x1080.jpg" rel="day-gallery" description="Gletschereis" %}
 
 In El Calafate haben wir noch was gegessen und den Abend ruhig ausklingen lassen.
