@@ -26,16 +26,16 @@ Der Lodgebetreiber riet uns zum Geld holen direkt nach Chile Chico zu fahren, al
 
 Nach einem kurzen Weg verliessen wir die Routa 7 und fuhren Richtung Argentinien den See entlang. Strassenverhältnisse sind gleich geblieben, der Ausblick auf den See hingegen war toll. Nach ca. 2 Stunden hatten wir unsere Lodge für diesen Tag gesehen – und sind dran vorbei gefahren (des Geldes wegen und was sollte man schon sonst Mitten am Tag machen…).
 
-{% include image.html url="images-2015-chile/chile-2015-01-21_00042-1280x720.jpg" description="Auf dem Weg..." %}
+{% include image.html url="images-2015-chile/chile-2015-01-21_00042-1280x720.jpg" bigUrl="images-2015-chile/chile-2015-01-21_00042-1920x1080.jpg" rel="day-gallery" description="Auf dem Weg..." %}
 
-{% include image.html url="images-2015-chile/chile-2015-01-21_00098-1280x720.jpg" description="... nach..." %}
+{% include image.html url="images-2015-chile/chile-2015-01-21_00098-1280x720.jpg" bigUrl="images-2015-chile/chile-2015-01-21_00098-1920x1080.jpg" rel="day-gallery" description="... nach..." %}
 
-{% include image.html url="images-2015-chile/chile-2015-01-21_00100-1280x720.jpg" description="... Chile Chico." %}
+{% include image.html url="images-2015-chile/chile-2015-01-21_00100-1280x720.jpg" bigUrl="images-2015-chile/chile-2015-01-21_00100-1920x1080.jpg" rel="day-gallery" description="... Chile Chico." %}
 
 Nach weiteren 2,5 Stunden sind wir dann in Chile Chico angekommen, haben Geld geholt, waren was essen und sind wieder zurück gefahren. Etwas deprimierend zwar, aber unsere Planung hier war nicht ganz ausgefeilt.
 
 ## Zur neuen Lodge
 
-Angekommen auf der Lodge hatten wir noch etwas Zeit ein paar Sachen zu waschen und den Tag noch etwas zu geniessen. Diese Lodge hätte zwar auch keine Kreditkarte genommen, aber per Paypal wäre eine Zahlung möglich gewesen. Naja… wieder ein paar Kilometer mehr gemacht. 
+Angekommen auf der Lodge hatten wir noch etwas Zeit ein paar Sachen zu waschen und den Tag noch etwas zu geniessen. Diese Lodge hätte zwar auch keine Kreditkarte genommen, aber per Paypal wäre eine Zahlung möglich gewesen. Naja… wieder ein paar Kilometer mehr gemacht.
 
 Die Sache mit der Einsamkeit am See hat aber einen wundervollen Nebeneffekt: Wir haben noch nie so deutlich den Sternenhimmel gesehen. Der Anblick war für uns atemberaubend und alles funkelte und glitzerte und Sternschnuppen gingen über unsere Köpfe hinweg. Leider hatten wir weder das Stativ dabei noch haben wir einen Fernauslöser für die Kamera, sodass wir keine Bilder davon machen konnten – wobei Bilder, wie gesagt, auch nicht ausreichen würden. Grosse Empfehlung also: In der Einsamkeit mal in den Nachthimmel schauen.
