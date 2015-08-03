@@ -274,7 +274,7 @@ html.swipebox-html.swipebox-touch {
     max-width: 800px;
   }
 }
-/* Skin 
+/* Skin
 --------------------------*/
 #swipebox-overlay {
   background: #0d0d0d;
@@ -292,4 +292,5 @@ html.swipebox-html.swipebox-touch {
   font-size: 15px;
   line-height: 43px;
   font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
 }

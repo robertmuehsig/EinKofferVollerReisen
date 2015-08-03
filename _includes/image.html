@@ -1,3 +1,5 @@
-<img src="{{ site.imagerepository }}{{ include.url }}" title="{{ include.description }}" alt="{{ include.description }}"/>
+<a rel="{{ include.rel }}" href="{{ site.imagerepository }}{{ include.bigUrl }}" class="swipebox" title="{{ include.description }}" alt="{{ include.description }}">
+  <img src="{{ site.imagerepository }}{{ include.url }}" title="{{ include.description }}" alt="{{ include.description }}"/>
+</a>
 <br>
 <span class="image-Footer">{{ include.description }}</span>
