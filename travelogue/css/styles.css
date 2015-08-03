@@ -1440,7 +1440,7 @@ body .cd-primary-nav-trigger, body .sound {
     top: 25px;
     width: 40px;
     /* edited to make it comaptible with the swipebox. previous: 9999999*/
-    z-index: 999999;
+    z-index: 99999;
 }
 body .cd-primary-nav-trigger.is-clicked,
 body .cd-primary-nav-trigger:hover, body .sound:hover, .modify .top:hover {
