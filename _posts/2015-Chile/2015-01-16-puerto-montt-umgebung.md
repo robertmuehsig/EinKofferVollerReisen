@@ -26,15 +26,15 @@ Wie sich am Ende rausstellte war die Adresse direkt das Hafenbüro und da gab es
 
 {% include googlemaps.html url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12023.271868050495!2d-73.05000000000001!3d-41.11666645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9617921b83a1ad5f%3A0xf73e24c76c6c0e28!2sFrutillar%2C+Los+Lagos+Region%2C+Chile!5e0!3m2!1sen!2sde!4v1435523046526" %}
 
-{% include image.html url="images-2015-chile/chile-2015-01-16_00034-1280x720.jpg" description="Frutillar" %}
+{% include image.html url="images-2015-chile/chile-2015-01-16_00034-1280x720.jpg" bigUrl="images-2015-chile/chile-2015-01-16_00034-1920x1080.jpg" rel="day-gallery" description="Frutillar" %}
 
 Zuerst sind wir nach Frutillar gefahren – ein hübscher Touristenort direkt am See. Der Ort wurde wohl von deutschen Auswanderen gegründet und so findet man viele Dinge aus der Heimat: Kuchen, Strudel, Brezeln, ein Haus in Kuckskucks-Uhr Form, Eisbein, Gartenzwerge, eine deutsche Feuerwehr etc. Natürlich kann man auch Baden gehen, allerdings sah es uns doch etwas zu kalt aus. Die Einheimischen sahen das allerdings anders und plantschten fröhlich bei gefühlten 15 Grad im Wasser.
 
-{% include image.html url="images-2015-chile/NewImage00002-1280x720.jpg" description="Es gibt Kuchen!" %}
+{% include image.html url="images-2015-chile/NewImage00002-1280x720.jpg" bigUrl="images-2015-chile/NewImage00002-1920x1080.jpg" rel="day-gallery" description="Es gibt Kuchen!" %}
 
-{% include image.html url="images-2015-chile/NewImage00003-1280x720.jpg" description="Und Gartenzwerge..." %}
+{% include image.html url="images-2015-chile/NewImage00003-1280x720.jpg" bigUrl="images-2015-chile/NewImage00003-1920x1080.jpg" rel="day-gallery" description="Und Gartenzwerge..." %}
 
-{% include image.html url="images-2015-chile/NewImage00013-1280x720.jpg" description="... samt passender Feuerwehr." %}
+{% include image.html url="images-2015-chile/NewImage00013-1280x720.jpg" bigUrl="images-2015-chile/NewImage00013-1920x1080.jpg" rel="day-gallery" description="... samt passender Feuerwehr." %}
 
 ## Richtung Puerto Montt
 
