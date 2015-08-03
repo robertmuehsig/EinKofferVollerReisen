@@ -1,0 +1,34 @@
+---
+style: "index-single"
+layout: default
+---
+<div id="container" class="container intro-effect-push">
+
+		<a class="cd-primary-nav-trigger" id="trigger-menu" href="#0">
+		  	<span class="cd-menu-icon"></span>
+		</a>
+
+			<header class="header">
+				<div class="bg-img">
+					<img  class="async-image hide" src="#" data-src="{{ site.imagerepository }}{{ page.header-image }}" alt="" />
+					<div class="overlay hidden" id="overlay"></div>
+				</div>
+				<div class="title hidden" id="title">
+					<h1>{{ page.title }}</h1>
+				</div>
+			</header>
+			<button class="trigger scroll-down-pulse"><span>Trigger</span></button>
+			<div class="title">
+				<h1 class="black">{{ page.title }}</h1>
+				<h2 class="subline">{{ page.subtitle }}</h2>
+			</div>
+			<article class="content">
+			<div>
+				{{ content }}
+			</div>
+			<div class="divider_30"></div>
+			</article>
+
+
+			<div class="divider_30"></div>
+		</div>
