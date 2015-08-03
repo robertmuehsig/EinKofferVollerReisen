@@ -24,7 +24,7 @@ navigation:
 
 Tägliche Berichte sind nicht leicht auf so einem Roadtrip. Daher erstmal das wichtigste: Die Strassenverhältnisse. Gut asphaltiert, wenig Schlaglöcher, läuft also. Wetter war Solala mit Wolken, dafür weniger Wind – allerdings wurde es Stück für Stück spürbar kälter (am Ende des Tages ca. 15 Grad). Jeden Tag eine gute Tat: Wir haben mal wieder einen Anhalter mitgenommen – diesmal jemanden aus Frankreich – ein Bademeister.
 
-{% include image.html url="images-2015-chile/chile-2015-01-25_00001-1280x720.jpg" description="Chile!" %}
+{% include image.html url="images-2015-chile/chile-2015-01-25_00001-1280x720.jpg" bigUrl="images-2015-chile/chile-2015-01-25_00001-1920x1080.jpg" rel="day-gallery" description="Chile!" %}
 
 An der Argentinischen/Chilenischen Grenze wieder die Stempel abgeholt und die Papiere entgegengenommen und weiter. Merke: Die Zettel sind wirklich, wirklich wichtig (scheinbar).
 
@@ -32,12 +32,12 @@ An der Argentinischen/Chilenischen Grenze wieder die Stempel abgeholt und die Pa
 
 Nach der Grenze ging es direkt zum Nationalpark Torres del Paine, für den man Eintritt zahlen muss (18.000 Chilenische Pesos pro Personen). Uns wurde noch der Weg zu unserer Hosteria beschrieben, welcher quasi einmal quer durch den Park für ca. 55km führt. Auf dem Weg begegneten uns wieder etliche dieser „chilenischen“ Rehe und wir haben sogar einen Puma samt Jungen über die Strasse flitzen sehen. Rings um den Park sieht man zudem die charakteristischen, mit Schnee bedeckten,  Berge.
 
-{% include image.html url="images-2015-chile/chile-2015-01-25_00125-1280x720.jpg" description="Landschaft" %}
+{% include image.html url="images-2015-chile/chile-2015-01-25_00125-1280x720.jpg" bigUrl="images-2015-chile/chile-2015-01-25_00125-1920x1080.jpg" rel="day-gallery" description="Landschaft" %}
 
-{% include image.html url="images-2015-chile/chile-2015-01-25_00127-1280x720.jpg" description="Die lustigen Rehe sind überalls" %}
+{% include image.html url="images-2015-chile/chile-2015-01-25_00127-1280x720.jpg" bigUrl="images-2015-chile/chile-2015-01-25_00127-1920x1080.jpg" rel="day-gallery" description="Die lustigen Rehe sind überalls" %}
 
 Wenn man von Argentinien aus zum Torres Del Paine fährt sollte man vorher irgendwo noch Tanken gehen. Der Park selbst ist relativ gross und es gibt keine Möglichkeit zu tanken.
 
-{% include image.html url="images-2015-chile/chile-2015-01-25_00128-1280x720.jpg" description="Bergkette" %}
+{% include image.html url="images-2015-chile/chile-2015-01-25_00128-1280x720.jpg" bigUrl="images-2015-chile/chile-2015-01-25_00128-1920x1080.jpg" rel="day-gallery" description="Bergkette" %}
 
 Unsere Hosteria war ausserhalb, auf der anderen Seite des Parkes, in mitten anderer Hosterias, Hotels oder anderen Gasthäusern.
