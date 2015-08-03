@@ -22,7 +22,7 @@ Aufstehen in einem komfortablen Bett, gutes Frühstück gehabt und bevor wir uns
 
 Die Strassen um Puerto Montt sind gut ausgebaut und es gibt sogar eine Autobahn zwischen den grösseren Städten, sodass man relativ schnell von A nach B kommt. Um nach Chileo zu gelangen muss man eine Fähre benutzen – die Fähren verkehren allerdings ständig in einem 20 bis 30 Minuten Takt. Also jedenfalls sehr häufig und erfordern keine Reservierung oder ähnliches. Abrechnet wird direkt auf dem Schiff.  
 
-{% include image.html url="images-2015-chile/NewImage00001-1280x720.jpg" description="Fährfahrt" %}
+{% include image.html url="images-2015-chile/NewImage00001-1280x720.jpg" bigUrl="images-2015-chile/NewImage00001-1920x1080.jpg" rel="day-gallery" description="Fährfahrt" %}
 
 ## Insel Chileo
 
@@ -30,17 +30,17 @@ Die Strassen um Puerto Montt sind gut ausgebaut und es gibt sogar eine Autobahn 
 
 Die Insel Chileo ist landschaftlich sehr hübsch und ist so ein Mittelding zwischen Strand/Dünen-Umgebung und Mitteleuropa. Die Städtchen wirken allerdings eher skandinavisch. Die Insel enthält einige Attraktionen, aufgrund der vorangeschrittenen Zeit und der Entfernungen auf der grossen Insel, konnten wir „nur“ Pinguine beobachten und ein altes spanisches Fort.
 
-{% include image.html url="images-2015-chile/NewImage00010-1280x720.jpg" description="Inselwege" %}
+{% include image.html url="images-2015-chile/NewImage00010-1280x720.jpg" bigUrl="images-2015-chile/NewImage00010-1920x1080.jpg" rel="day-gallery" description="Inselwege" %}
 
-{% include image.html url="images-2015-chile/chile-2015-01-16_00069-1280x720.jpg" description="Kanone vom Fort" %}
+{% include image.html url="images-2015-chile/chile-2015-01-16_00069-1280x720.jpg" bigUrl="images-2015-chile/chile-2015-01-16_00069-1920x1080.jpg" rel="day-gallery" description="Kanone vom Fort" %}
 
 Die Pinguine sieht man allerdings nur wenn man eine entsprechende Tour bucht, da diese etwas abseits auf kleinen Inselchen leben.  
 
-{% include image.html url="images-2015-chile/chile-2015-01-15_00057-1280x720.jpg" description="Insel Chileo" %}
+{% include image.html url="images-2015-chile/chile-2015-01-15_00057-1280x720.jpg" bigUrl="images-2015-chile/chile-2015-01-15_00057-1920x1080.jpg" rel="day-gallery" description="Insel Chileo" %}
 
-{% include image.html url="images-2015-chile/chile-2015-01-15_00058-1280x720.jpg" description="Insel Chileo - Pinguine" %}
+{% include image.html url="images-2015-chile/chile-2015-01-15_00058-1280x720.jpg" bigUrl="images-2015-chile/chile-2015-01-15_00058-1920x1080.jpg" rel="day-gallery" description="Insel Chileo - Pinguine" %}
 
-{% include image.html url="images-2015-chile/chile-2015-01-15_00062-1280x720.jpg" description="Insel Chileo - Pinguine" %}
+{% include image.html url="images-2015-chile/chile-2015-01-15_00062-1280x720.jpg" bigUrl="images-2015-chile/chile-2015-01-15_00062-1920x1080.jpg" rel="day-gallery" description="Insel Chileo - Pinguine" %}
 
 ## Bürokratie... yeah...
 
