@@ -1,5 +1,12 @@
 <a rel="{{ include.rel }}" href="{{ site.imagerepository }}{{ include.bigUrl }}" class="swipebox" title="{{ include.description }}" alt="{{ include.description }}">
-  <img src="{{ site.imagerepository }}{{ include.url }}" title="{{ include.description }}" alt="{{ include.description }}"/>
+  {% if include.url != null %}
+    <img src="{{ site.imagerepository }}{{ include.url }}" title="{{ include.description }}" alt="{{ include.description }}"/>
+  {% endif %}
+  {% if include.asyncUrl != null %}
+    <img class="lazy" data-original="{{ site.imagerepository }}{{ include.asyncUrl }}" width="1280" height="720" src="{{ site.imagerepository }}{{ include.url }}" title="{{ include.description }}" alt="{{ include.description }}"/>
+  {% endif %}
 </a>
+{% if include.description != null %}
 <br>
 <span class="image-Footer">{{ include.description }}</span>
+{% endif %}
