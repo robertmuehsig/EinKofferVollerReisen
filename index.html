@@ -9,8 +9,8 @@ header-image: "images-common/start.jpg"
 			  	<span class="cd-menu-icon"></span>
 	</a>
 
-	
-			
+
+
 			<header class="header">
 				<div class="bg-img">
 					<img class="async-image hide" src="#" data-src="{{ site.imagerepository }}{{ page.header-image }}" alt="" />
@@ -22,7 +22,7 @@ header-image: "images-common/start.jpg"
 			</header>
 
 			<button class="trigger scroll-down-pulse"><span>Trigger</span></button>
-			<div class="title">					
+			<div class="title">
 				<h1 class="black">{{ site.title }}</h1>
 				<h2 class="subline">{{ site.subtitle }}</h2>
 			</div>
@@ -30,29 +30,33 @@ header-image: "images-common/start.jpg"
 				<div>
 					<p>Hallo und Willkommen auf unserem Reiseblog. Wir, Liza und Robert, versuchen hier unsere Reiseerlebnisse mit den "Daheimgebliebenen" und anderen Interessierten zu teilen.</p>
 				</div>
-				<div class="grid">
-						{% assign landingPagePosts = site.posts | where: "type", "landingPage" %}
-						{% for post in landingPagePosts %}
-						<figure class="single-item-effect big">
-							<img src="{{ site.imagerepository }}{{post.preview-image}}" alt="img01"/> 
-							<figcaption>
-								<div class="figcaption-border">
-									<h2>{{post.title}} <span>{{ post.date | date: '%Y'  }} </span></h2>
-									<p>{{post.subtitle}}</p>
-									<a href="{{post.url}}">Mehr</a>
-									<div class="figure-overlay"></div>
-								</div>
-							</figcaption>												
-						</figure>
-						{% endfor %}
+
+
+
+				<div>
+					{% assign landingPagePosts = site.posts | where: "type", "landingPage" %}
+					{% for post in landingPagePosts %}
+					<div class="one_half">
+						<img title="{{post.title}}" src="{{ site.imagerepository }}{{post.preview-image}}">
+					</div>
+					<div class="one_half">
+						<h3 style="margin-left: 10px"><span class="green">{{post.title}} </span><span class="black">{{ post.date | date: '%Y'  }}</span></h3>
+						<p style="margin-left: 10px">{{post.subtitle}}</p>
+						<p style="margin-left: 10px">
+							<a href="{{post.url}}">Hier gehts zum Reisebericht...</a>
+						</p>
 					</div>
 					<div class="divider_30"></div>
+					{% endfor %}
+				</div>
+
+				<div class="divider_30"></div>
 					<div>
 						<h2><span class="green">Die </span><span class="black">Reisekarte:</span></h2>
 						<p>Auf der Karte sind alle (wesentlichen) Reiseorte markiert, welche wir beide gemeinsam bereisst:</p>
-						
+
 				</div>
-				
+
 				<div class="travelogue-product travelogue-container">
 				    <div class="travelogue-product-wrapper">
 				    	<!-- Map image -->
@@ -64,7 +68,7 @@ header-image: "images-common/start.jpg"
 				                <a class="travelogue-img-replace" href="#0">Mehr</a>
 
 				                <div class="travelogue-more-info travelogue-left">
-									
+
 				                    <h2><a href="{{post.url}}">{{post.title}}</a></h2>
 
 				                    <p>{{post.subtitle}}</p><img src="{{ site.imagerepository }}{{post.preview-image}}"> <a href="#0" class="travelogue-close-info travelogue-img-replace">Schliessen</a>
