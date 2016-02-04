@@ -23,7 +23,7 @@ URL:        http://modeltheme.com/travelogue/
     1.12. DROPCAPS
     1.13. BLOCKQUOTES
     1.14. TABS
-    1.15. BACK TO TOP button
+    1.15. BACK TO TOP button 
 2. Header
     2.1. SEARCH FORM
     2.2. PLAY/PAUSE BUTTON (for Video Background version only)
@@ -87,8 +87,6 @@ body {
     -webkit-font-smoothing: antialiased;
     overflow-x: hidden;
 }
-
-
 
 /*--- 1.1. COLUMNS ---*/
 .one_third {
