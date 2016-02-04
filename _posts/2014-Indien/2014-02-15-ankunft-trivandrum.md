@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ankunft"
+title: "Ankunft Trivandrum"
 subtitle: "Morgen Stund hat..."
 category: 2014-Indien
 header-image: "images-2015-chile/chile-2015-01-12_00025-1280x720.jpg"
