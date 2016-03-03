@@ -21,9 +21,13 @@ navigation:
 
 Erster Tag in Indien. Genauer gesagt sind wir gegen 3 Uhr morgens in Trivandrum angekommen. 
 
+## Trivandrum
+
 Noch ziemlich zerknautscht haben wir die Rucksäcke abgeholt, Geld besorgt und haben recht schnell unseren Fahrer getroffen. Glücklicherweise haben wir ein „Early Checkin“ für das erste Hotel gehabt, also ab zum Hotel und kurz schlafen. 
 
 Trotzdem blieb keine Zeit zur kompletten Regeneration, denn wegen eines Stadtfestes wurde uns geraten die Stadtführung gegen 10 Uhr zu beginnen. Naja – nach einem etwas längeren Powernapping (schlafen kann man die paar Stunden ja nicht nennen) wartete unser Fahrer und unser Guide bereits und das Ziel war der Tempel ["Padmanabhaswamy"](https://de.wikipedia.org/wiki/Padmanabhaswamy-Tempel) und die Palastanlage mitten in der Stadt.
+
+## Palast und Tempel
 
 Der Tempel war, wie sich später herausstellte nicht besonders riesig, hatte aber trotzdem den charakteristischen Eingang mit den vielen Verziehrungen und Figuren. Nach dem kurzen Tempelbesuche ging es weiter zu einer etwas ausgibigeren Palasttour. 
 
