@@ -3,6 +3,7 @@ Unser Fahrer holte uns gegen 9 Uhr aus dem Hotel von Madurai ab mit dem Ziel Tan
 ## Madurai Blumenmarkt
 
 Direkt am Ortsausgang von Madurai gab es aber schon den ersten Halt: Zum örtlichen Blumenmarkt. 
+
 Angeboten wurden hier farbenprächtige Blumen verschiedener Art, welche vermutlich meist für die Tempel-Dekoration genutzt wird oder andere religöse Zwecke erfüllt. Ansonsten war Madurai eine ziemlich trostlose Stadt.
 
 ## Trichy
@@ -10,7 +11,9 @@ Angeboten wurden hier farbenprächtige Blumen verschiedener Art, welche vermutli
 Nächster Stop war Trichy. Unser Guide traf uns an einem Fluss, welcher ähnlich dem Ganges, zur „rituellen Reinung“ genutzt wird. Der Fluss war natürlich alles andere als rein und der Ort war recht chaotisch. Aber ein Elefant stand rum. Immerhin etwas nettes anzuschauen.
 Auf dem Platz gab es ansonsten noch verschiedene „Gedenkstellen“ für kürzlich verstorbene. 
 Der Fluss war ansonsten grösstenteils ausgetrockent. 
+
 In nächster Nähe war auch der „Rock Fort“ im Blick – da allerdings der Guide meinte, dass wir heute noch zu viel Programm hätten (und der Androhung da ca. 400 Stufen barfuss hochzulatschen) haben wir diesen Ort nicht besucht, dafür ging es direkt danach zum Tempel – mal wieder einer der grössten in der Region.
+
 Hübsch war er und der Guide hatte uns einige gesellschaftliche (z.B. was das Kopfnicken bedeutet – Kopfwackeln = OK - oder wie kompliziert man in Indien heiratet) sowie religöse Dinge erklärt. Alles in Allem: Lustiger Typ und ein netter Tempel in der „typischen“ Ausprägung mit 4 Eingängen und bunten Figuren. Viele Erklärungen zu den unterschiedlichen Figuren und Bemalungen folgten. Danach verabschiedeten wir uns und sind zu unserem eigentlichen Ziel Tanjore weitergefahren. Die Entfernungen zwischen den Stops waren zum Teil nicht so groß, aber durch die Straßenverhältnisse dauerte es zum Teil ewig von A nach B zu kommen.
 
 ## Tanjore
