@@ -1,6 +1,6 @@
 Nach einer entspannenden Nacht in unserer „Villa“ ging es um 9 Uhr zur eigentlichen Stadt ["Mahabalipuram"](https://de.wikipedia.org/wiki/Mamallapuram).
 
-## Mahablipuram
+## Mahabalipuram
 
 Der Guide war kaum volljährig, hat uns aber mit gutem englisch durch die Stadt und Tempelanlagen geführt. Schon beim Reinfahren in das Stadtzentrum vielen uns die vielen Touristen auf – nicht nur „westliche“ Touristen, sondern scheinbar war dies auch ein Anziehungspunkt für viele Inder. 
 
