@@ -17,4 +17,6 @@ Used Version: 4 April 15
 * 1920x1080 - Post
 
 Image Resizing Tool:
-- http://www.faststone.org/FSViewerDownload.htm
+- ImageMagick
+
+For resizing - there is a batch file under tooling.
