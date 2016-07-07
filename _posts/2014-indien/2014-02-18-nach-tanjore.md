@@ -1,3 +1,24 @@
+---
+layout: post
+title: "Nach Tanjore"
+subtitle: "Von Madurai nach Tanjore"
+category: 2014-Indien
+header-image: "images-2015-chile/chile-2015-01-12_00025-1280x720.jpg"
+navigation:
+  previous:
+    title-small: "17. Februar"
+    title-bold: "Erkundung Madurai"
+    title-full: "17. Februar: Erkundung Madurai"
+    image: "images-2015-chile/chile-2015-01-25_00001-965x350.jpg"
+    link: "/2014-indien/erkundung-madurai"
+  next:
+    title-small: "19. Februar"
+    title-bold: "Tanjore & ab nach Pondicherry"
+    title-full: "19. Februar: Tanjore & Pondicherry"
+    image: "images-2015-chile/chile-2015-01-12_00002-965x350.jpg"
+    link: "/2014-indien/tanjore-und-ab-nach-pondicherry"
+---
+
 Unser Fahrer holte uns gegen 9 Uhr aus dem Hotel von Madurai ab mit dem Ziel Tanjore. 
 
 ## Madurai Blumenmarkt
