@@ -1,3 +1,24 @@
+---
+layout: post
+title: "Erkundung Madurai"
+subtitle: "Palast, Stadt und Tempel"
+category: 2014-Indien
+header-image: "images-2015-chile/chile-2015-01-12_00025-1280x720.jpg"
+navigation:
+  previous:
+    title-small: "16. Februar"
+    title-bold: "Nach Madurai"
+    title-full: "16. Februar: Nach Madurai"
+    image: "images-2015-chile/chile-2015-01-25_00001-965x350.jpg"
+    link: "/2014-indien/nach-madurai"
+  next:
+    title-small: "18. Februar"
+    title-bold: "Nach Tanjore"
+    title-full: "18. Februar: Nach Tanjore"
+    image: "images-2015-chile/chile-2015-01-12_00002-965x350.jpg"
+    link: "/2014-indien/nach-tanjore"
+---
+
 An diesem Tag ging es früh aus unserem kleinen Minipalast, also unser Zimmer im "Gateway Hotel" zum Erkungen der Stadt.
 
 ## Plan: Palast, Stadt und Tempel anschauen. 
