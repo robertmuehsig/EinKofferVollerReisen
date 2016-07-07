@@ -1,4 +1,23 @@
-## Mit dem Zug nach Bangalore
+---
+layout: post
+title: "Zugfahrt Bangalore nach Hassan"
+subtitle: "Dann lass uns doch mal mit der Bahn fahren..."
+category: 2014-Indien
+header-image: "images-2015-chile/chile-2015-01-12_00025-1280x720.jpg"
+navigation:
+  previous:
+    title-small: "22. Februar"
+    title-bold: "Chennai"
+    title-full: "22. Februar: Chennai"
+    image: "images-2015-chile/chile-2015-01-12_00002-965x350.jpg"
+    link: "/2014-indien/chennai"
+  next:
+    title-small: "24. Februar"
+    title-bold: "Hassan und Mysore"
+    title-full: "24. Februar: Hassan & Mysore"
+    image: "images-2015-chile/chile-2015-01-12_00002-965x350.jpg"
+    link: "/2014-indien/hassan-und-mysore"
+---
 
 Eine Zugfahrt die ist lustig, eine Zugfahrt die ist... verdammt früh. Unser Zug Richtung Bangalore ging um 6 vom Chennaier Hauptbahnhof los. 
 Ein Fahrer holte uns vom Hotel ab und brachte uns quasi bis zum Sitz im Zug. Das klingt jetzt relativ unaufgeregt, war aber in Wahrheit etwas stressiger, da es bei der Buchung der Zugtickets zu Problemen kam: Unsere Sitze waren in getrennten Wagons. Uns ist erst im Zug dieses Problem aufgefallen, da selbst der Fahrer und mehrere andere Mitzugfahrer keine Ahnung hatten wo auf unserem Zugticket überhaupt ein Platz vermerkt war. Als sich dann das Unglück heraus gestellt hatte, war das Drama natürlich groß. Glücklicherweise hat sich jemand anderes bereiterklärt zu tauschen, sodass wir dann doch noch im selben Wagen und nach ca. 2h Fahrtzeit sogar nebeneinander sitzen konnten. 
