@@ -1,3 +1,24 @@
+---
+layout: post
+title: "Nach Madurai"
+subtitle: "Von Trivandrum nach Madurai"
+category: 2014-Indien
+header-image: "images-2015-chile/chile-2015-01-12_00025-1280x720.jpg"
+navigation:
+  previous:
+    title-small: "15. Februar"
+    title-bold: "Ankunft Trivandrum"
+    title-full: "15. Februar: Ankunft Trivandrum"
+    image: "images-2015-chile/chile-2015-01-25_00001-965x350.jpg"
+    link: "/2014-indien/ankunft-trivandrum"
+  next:
+    title-small: "17. Februar"
+    title-bold: "Erkundung Madurai"
+    title-full: "17. Februar: Erkungung Madurai"
+    image: "images-2015-chile/chile-2015-01-12_00002-965x350.jpg"
+    link: "/2014-indien/erkundung-madurai"
+---
+
 Der Tag bestand im Großen und Ganzen aus einer 7 stündigen Autofahrt von Trivandrum nach Madurai, wobei die eigentliche Fahrt ziemlich ereignislos ablief. Unser Fahrer hatte uns dafür auf nette Sachen aufmerksam gemacht. 
 
 ## Eine lange Fahrt...
