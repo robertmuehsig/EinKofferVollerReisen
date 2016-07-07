@@ -1,4 +1,25 @@
-Nach einer entspannenden Nacht in unserer „Villa“ ging es um 9 Uhr zur eigentlichen Stadt ["Mahabalipuram"](https://de.wikipedia.org/wiki/Mamallapuram).
+---
+layout: post
+title: "Mahabalipuram"
+subtitle: "Tempel und chilllaxen..."
+category: 2014-Indien
+header-image: "images-2015-chile/chile-2015-01-12_00025-1280x720.jpg"
+navigation:
+  previous:
+    title-small: "20. Februar"
+    title-bold: "Pondicherry & Chennai"
+    title-full: "20. Februar: Pondicherry & Chennai"
+    image: "images-2015-chile/chile-2015-01-12_00002-965x350.jpg"
+    link: "/2014-indien/pondicherry-und-nach-chennai"
+  next:
+    title-small: "22. Februar"
+    title-bold: "Chennai"
+    title-full: "22. Februar: Chennai"
+    image: "images-2015-chile/chile-2015-01-12_00002-965x350.jpg"
+    link: "/2014-indien/chennai"
+---
+
+Nach einer entspannenden Nacht in unserer "Villa" ging es um 9 Uhr zur eigentlichen Stadt ["Mahabalipuram"](https://de.wikipedia.org/wiki/Mamallapuram).
 
 ## Mahabalipuram
 
