@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ankunft Trivandrum"
-subtitle: "Morgen Stund hat..."
+subtitle: "Erster Tag in Indien"
 category: 2014-Indien
 header-image: "images-2015-chile/chile-2015-01-12_00025-1280x720.jpg"
 navigation:
@@ -12,11 +12,11 @@ navigation:
     image: "images-2015-chile/chile-2015-01-25_00001-965x350.jpg"
     link: "/2014-indien/index"
   next:
-    title-small: "12. Januar"
-    title-bold: "Atacama Wüste - Süden"
-    title-full: "12. Januar: Atacama Wüste - Süden"
+    title-small: "16. Februar"
+    title-bold: "Nach Madurai"
+    title-full: "16. Februar: Nach Madurai"
     image: "images-2015-chile/chile-2015-01-12_00002-965x350.jpg"
-    link: "/2015-chile/atacama-sued"
+    link: "/2014-indien/nach-madurai"
 ---
 
 Erster Tag in Indien. Genauer gesagt sind wir gegen 3 Uhr morgens in Trivandrum angekommen. 
