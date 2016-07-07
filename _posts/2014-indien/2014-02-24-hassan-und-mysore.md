@@ -1,3 +1,24 @@
+---
+layout: post
+title: "Hassan und Mysore"
+subtitle: "Tempel von Hassan und Erkundung Mysore"
+category: 2014-Indien
+header-image: "images-2015-chile/chile-2015-01-12_00025-1280x720.jpg"
+navigation:
+  previous:
+    title-small: "23. Februar"
+    title-bold: "Zugfahrt Bangalore nach Hassan"
+    title-full: "23. Februar: Bangalore & Hassan"
+    image: "images-2015-chile/chile-2015-01-12_00002-965x350.jpg"
+    link: "/2014-indien/zugfahrt-bangalore-nach-hassan"
+  next:
+    title-small: "25. Februar"
+    title-bold: "Nach Ooty"
+    title-full: "25. Februar: Nach Ooty"
+    image: "images-2015-chile/chile-2015-01-12_00002-965x350.jpg"
+    link: "/2014-indien/nach-ooty"
+---
+
 Wesentlich ausgeschlafener als gestern ging es wieder um 9 Uhr mit dem Programm los. 
 
 ## Erkundung der Tempel um Hassan
