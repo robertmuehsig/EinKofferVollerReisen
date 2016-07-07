@@ -1,3 +1,24 @@
+---
+layout: post
+title: "Tanjore & ab nach Pondicherry"
+subtitle: "Paläste, Tempel und Autofahren..."
+category: 2014-Indien
+header-image: "images-2015-chile/chile-2015-01-12_00025-1280x720.jpg"
+navigation:
+  previous:
+    title-small: "18. Februar"
+    title-bold: "Nach Tanjore"
+    title-full: "18. Februar: Nach Tanjore"
+    image: "images-2015-chile/chile-2015-01-12_00002-965x350.jpg"
+    link: "/2014-indien/nach-tanjore"
+  next:
+    title-small: "20. Februar"
+    title-bold: "Pondicherry & Chennai"
+    title-full: "20. Februar: Pondicherry & Chennai"
+    image: "images-2015-chile/chile-2015-01-12_00002-965x350.jpg"
+    link: "/2014-indien/pondicherry-und-nach-chennai"
+---
+
 Gegen 9 ging es dann aus unserem Hotel zum Tempel und zum örtlichen Palast. Natürlich wieder mit Guide und unserem Fahrer.
 
 ## Brihadishvara-Tempel
