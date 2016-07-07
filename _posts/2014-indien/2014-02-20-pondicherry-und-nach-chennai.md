@@ -1,3 +1,24 @@
+---
+layout: post
+title: "Pondicherry & nach Chennai"
+subtitle: "Pondicherry Erkundung und nach Chennai"
+category: 2014-Indien
+header-image: "images-2015-chile/chile-2015-01-12_00025-1280x720.jpg"
+navigation:
+  previous:
+    title-small: "19. Februar"
+    title-bold: "Tanjore & ab nach Pondicherry"
+    title-full: "19. Februar: Tanjore & Pondicherry"
+    image: "images-2015-chile/chile-2015-01-12_00002-965x350.jpg"
+    link: "/2014-indien/tanjore-und-ab-nach-pondicherry"
+  next:
+    title-small: "21. Februar"
+    title-bold: "Mahabalipuram"
+    title-full: "21. Februar: Mahabalipuram"
+    image: "images-2015-chile/chile-2015-01-12_00002-965x350.jpg"
+    link: "/2014-indien/mahabalipuram"
+---
+
 Das Hotel in Pondicherry lag ca. eine halbe Stunde von der eigentlichen Stadt weg. 
 
 Als nette Abwechslung zu all den Tempelbesuchen gab es heute mal einen anderen Programmpunkt: Eine Stadtbesichtung. Ohne Tempel oder Palast. 
