@@ -1,4 +1,23 @@
-## Tschuuutschuu... 
+---
+layout: post
+title: "Nach Kochi"
+subtitle: "Tschuuutschuu"
+category: 2014-Indien
+header-image: "images-2015-chile/chile-2015-01-12_00025-1280x720.jpg"
+navigation:
+  previous:
+    title-small: "25. Februar"
+    title-bold: "Nach Ooty"
+    title-full: "25. Februar: Nach Ooty"
+    image: "images-2015-chile/chile-2015-01-12_00002-965x350.jpg"
+    link: "/2014-indien/nach-ooty"
+  next:
+    title-small: "27. Februar"
+    title-bold: "Hausboot"
+    title-full: "27. Februar: Hausboot"
+    image: "images-2015-chile/chile-2015-01-12_00002-965x350.jpg"
+    link: "/2014-indien/hausboot"
+---
 
 Es ist wieder Zug-Fahr-Tag. "Sharp 8.30" hieß die Anweisung von unserem Fahrer um den Zug 9.15 zu erwischen – natürlich waren wir brav und waren schon 8.20 bereit. Der Bahnhof liegt direkt in Ooty und der Zug sollte uns nach Conoor bringen – 19km entfernt. Fahrtzeit 1 Stunde und 15 Minuten. Ähnlich gut wie bei der ersten Zugfahrt verlief auch hier die Zugfahrt.
 
