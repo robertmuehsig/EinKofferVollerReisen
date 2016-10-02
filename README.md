@@ -19,4 +19,4 @@ Used Version: 4 April 15
 Image Resizing Tool:
 - ImageMagick
 
-For resizing - there is a batch file under tooling.
+For resizing - there is a batch file under __tooling__.
