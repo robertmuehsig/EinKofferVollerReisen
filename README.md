@@ -1,4 +1,4 @@
-# EinKofferVollerReisen
+# EinKofferVollerReisen [![Build Status](https://travis-ci.org/robertmuehsig/EinKofferVollerReisen.svg?branch=gh-pages)](https://travis-ci.org/robertmuehsig/EinKofferVollerReisen)
 Reiseblog
 
 ## Dev-Notes
