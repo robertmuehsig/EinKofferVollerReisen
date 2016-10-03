@@ -23,7 +23,7 @@ Erster Tag in Indien. Genauer gesagt sind wir gegen 3 Uhr morgens in [Trivandrum
 
 ## Trivandrum
 
-{% include googlemaps.html url="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d519606.56715569476!2d77.19415875577639!3d8.704604274077816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b05bbb805bbcd47%3A0x15439fab5c5c81cb!2sThiruvananthapuram%2C+Kerala+695001%2C+Indien!5e0!3m2!1sde!2sch!4v1475410945458" %}
+{% include googlemaps.html url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d519606.56715569476!2d77.19415875577639!3d8.704604274077816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b05bbb805bbcd47%3A0x15439fab5c5c81cb!2sThiruvananthapuram%2C+Kerala+695001%2C+Indien!5e0!3m2!1sde!2sch!4v1475410945458" %}
 
 Noch ziemlich zerknautscht haben wir die Rucksäcke abgeholt, Geld besorgt und haben recht schnell unseren Fahrer getroffen. Glücklicherweise haben wir ein „Early Checkin“ für das erste Hotel gehabt, also ab zum Hotel und kurz schlafen. 
 
