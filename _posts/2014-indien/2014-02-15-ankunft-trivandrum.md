@@ -15,7 +15,7 @@ navigation:
     title-small: "16. Februar"
     title-bold: "Nach Madurai"
     title-full: "16. Februar: Nach Madurai"
-    image: "images-2014-indien/chile-2015-01-12_00002-965x350.jpg"
+    image: "images-2014-indien/images-2014-indien/DSC00032.965x350.jpg"
     link: "/2014-indien/nach-madurai"
 ---
 
