@@ -3,7 +3,7 @@ layout: post
 title: "Erkundung Madurai"
 subtitle: "Palast, Stadt und Tempel"
 category: 2014-Indien
-header-image: "mages-2014-indien/DSC00104.1280x720.jpg"
+header-image: "images-2014-indien/DSC00104.1280x720.jpg"
 navigation:
   previous:
     title-small: "16. Februar"
