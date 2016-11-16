@@ -20,3 +20,5 @@ Image Resizing Tool:
 - ImageMagick
 
 For resizing - there is a batch file under __tooling__.
+
+Beware: Vertical Images are kinda stupid. Workaround was via IrfanView (Disable Orientation View from EXIF and rotate it there...)
