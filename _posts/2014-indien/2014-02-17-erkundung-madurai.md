@@ -35,7 +35,7 @@ Der Palast, [Thirumalai Nayakkar Mahal](https://en.wikipedia.org/wiki/Thirumalai
 
 {% include image.html url="images-2014-indien/DSC00078.1280x720.jpg" bigUrl="images-2014-indien/DSC00078.1920x1080.jpg" rel="day-gallery" description="Verzierungen" %}
 
-{% include image.html url="images-2014-indien/DSC00080.1280x720.jpg" bigUrl="images-2014-indien/DSC00080.1920x1080.jpg" rel="day-gallery" description="Gang zwischen den Säulen" %}
+{% include image.html url="images-2014-indien/DSC00080.1280x720-1.jpg" bigUrl="images-2014-indien/DSC00080.1920x1080.jpg" rel="day-gallery" description="Gang zwischen den Säulen" %}
 
 {% include image.html url="images-2014-indien/WP_20140217_09_48_48_Pro.1280x720.jpg" bigUrl="images-2014-indien/WP_20140217_09_48_48_Pro.1920x1080.jpg" rel="day-gallery" description="Grössere Ansicht" %}
 
