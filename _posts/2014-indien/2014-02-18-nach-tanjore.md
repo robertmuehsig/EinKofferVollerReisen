@@ -3,7 +3,7 @@ layout: post
 title: "Nach Tanjore"
 subtitle: "Von Madurai nach Tanjore"
 category: 2014-Indien
-header-image: "images-2015-chile/DSC00121.1280x720.jpg"
+header-image: "images-2014-indien/DSC00121.1280x720.jpg"
 navigation:
   previous:
     title-small: "17. Februar"
