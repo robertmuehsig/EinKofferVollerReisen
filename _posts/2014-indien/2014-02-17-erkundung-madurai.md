@@ -15,7 +15,7 @@ navigation:
     title-small: "18. Februar"
     title-bold: "Nach Tanjore"
     title-full: "18. Februar: Nach Tanjore"
-    image: "images-2015-chile/chile-2015-01-12_00002-965x350.jpg"
+    image: "images-2014-indien/DSC00121.965x350.jpg"
     link: "/2014-indien/nach-tanjore"
 ---
 
