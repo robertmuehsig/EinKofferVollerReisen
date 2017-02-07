@@ -25,32 +25,32 @@ Unser Fahrer holte uns gegen 9 Uhr aus dem Hotel von Madurai ab mit dem Ziel Tan
 
 ## Madurai Blumenmarkt
 
-{% include image.html url="images-2014-indien/DSC00117.1280x720.jpg" bigUrl="images-2014-indien/DSC00063.1920x1080.jpg" rel="day-gallery" description="Blümchen" %}
+{% include image.html url="images-2014-indien/DSC00117.1280x720.jpg" bigUrl="images-2014-indien/DSC00117.1920x1080.jpg" rel="day-gallery" description="Blümchen" %}
 
 Direkt am Ortsausgang von Madurai gab es aber schon den ersten Halt: Zum örtlichen Blumenmarkt. 
 
-{% include image.html url="images-2014-indien/DSC00121.1280x720.jpg" bigUrl="images-2014-indien/DSC00063.1920x1080.jpg" rel="day-gallery" description="Blümchen" %}
+{% include image.html url="images-2014-indien/DSC00121.1280x720.jpg" bigUrl="images-2014-indien/DSC00121.1920x1080.jpg" rel="day-gallery" description="Blümchen" %}
 
 Angeboten wurden hier farbenprächtige Blumen verschiedener Art, welche vermutlich meist für die Tempel-Dekoration genutzt wird oder andere religöse Zwecke erfüllt. Ansonsten war Madurai eine ziemlich trostlose Stadt.
 
-{% include image.html url="images-2014-indien/DSC00125.1280x720.jpg" bigUrl="images-2014-indien/DSC00063.1920x1080.jpg" rel="day-gallery" description="Blümchen" %}
+{% include image.html url="images-2014-indien/DSC00125.1280x720.jpg" bigUrl="images-2014-indien/DSC00125.1920x1080.jpg" rel="day-gallery" description="Blümchen" %}
 
-{% include image.html url="images-2014-indien/DSC00128.1280x720.jpg" bigUrl="images-2014-indien/DSC00063.1920x1080.jpg" rel="day-gallery" description="Blümchen" %}
+{% include image.html url="images-2014-indien/DSC00128.1280x720.jpg" bigUrl="images-2014-indien/DSC00128.1920x1080.jpg" rel="day-gallery" description="Blümchen" %}
 
 ## Trichy
 
-{% include image.html url="images-2014-indien/DSC00133.1280x720.jpg" bigUrl="images-2014-indien/DSC00063.1920x1080.jpg" rel="day-gallery" description="Kleine Götterstatue" %}
+{% include image.html url="images-2014-indien/DSC00133.1280x720.jpg" bigUrl="images-2014-indien/DSC00133.1920x1080.jpg" rel="day-gallery" description="Kleine Götterstatue" %}
 
 Nächster Stop war Trichy. Unser Guide traf uns an einem Fluss, welcher ähnlich dem Ganges, zur "rituellen Reinung" genutzt wird. Der Fluss war natürlich alles andere als rein und der Ort war recht chaotisch. Aber ein Elefant stand rum. Immerhin etwas nettes anzuschauen.
 Auf dem Platz gab es ansonsten noch verschiedene "Gedenkstellen" für kürzlich Verstorbene. 
 
-{% include image.html url="images-2014-indien/DSC00137.1280x720.jpg" bigUrl="images-2014-indien/DSC00063.1920x1080.jpg" rel="day-gallery" description="Fluss" %}
+{% include image.html url="images-2014-indien/DSC00137.1280x720.jpg" bigUrl="images-2014-indien/DSC00137.1920x1080.jpg" rel="day-gallery" description="Fluss" %}
 
 Der Fluss war ansonsten grösstenteils ausgetrockent. 
 
 In nächster Nähe war auch der "Rock Fort" im Blick – da allerdings der Guide meinte, dass wir heute noch zu viel Programm hätten (und der Androhung da ca. 400 Stufen barfuss hochzulatschen) haben wir diesen Ort nicht besucht, dafür ging es direkt danach zum Tempel – mal wieder einer der grössten in der Region.
 
-{% include image.html url="images-2014-indien/DSC00141.1280x720.jpg" bigUrl="images-2014-indien/DSC00063.1920x1080.jpg" rel="day-gallery" description="Fluss" %}
+{% include image.html url="images-2014-indien/DSC00141.1280x720.jpg" bigUrl="images-2014-indien/DSC00141.1920x1080.jpg" rel="day-gallery" description="Fluss" %}
 
 Hübsch war er und der Guide hatte uns einige gesellschaftliche (z.B. was das Kopfnicken bedeutet – Kopfwackeln = OK - oder wie kompliziert man in Indien heiratet) sowie religöse Dinge erklärt. Alles in Allem: Lustiger Typ und ein netter Tempel in der „typischen“ Ausprägung mit 4 Eingängen und bunten Figuren. Viele Erklärungen zu den unterschiedlichen Figuren und Bemalungen folgten. Danach verabschiedeten wir uns und sind zu unserem eigentlichen Ziel Tanjore weitergefahren. Die Entfernungen zwischen den Stops waren zum Teil nicht so groß, aber durch die Straßenverhältnisse dauerte es zum Teil ewig von A nach B zu kommen.
 
