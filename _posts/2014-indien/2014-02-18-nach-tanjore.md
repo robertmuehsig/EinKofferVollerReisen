@@ -46,17 +46,36 @@ Auf dem Platz gab es ansonsten noch verschiedene "Gedenkstellen" für kürzlich 
 
 {% include image.html url="images-2014-indien/DSC00137.1280x720.jpg" bigUrl="images-2014-indien/DSC00137.1920x1080.jpg" rel="day-gallery" description="Fluss" %}
 
+
+{% include image.html url="images-2014-indien/DSC00141.1280x720.jpg" bigUrl="images-2014-indien/DSC00141.1920x1080.jpg" rel="day-gallery" description="Fluss" %}
+
 Der Fluss war ansonsten grösstenteils ausgetrockent. 
 
 In nächster Nähe war auch der "Rock Fort" im Blick – da allerdings der Guide meinte, dass wir heute noch zu viel Programm hätten (und der Androhung da ca. 400 Stufen barfuss hochzulatschen) haben wir diesen Ort nicht besucht, dafür ging es direkt danach zum Tempel – mal wieder einer der grössten in der Region.
 
-{% include image.html url="images-2014-indien/DSC00141.1280x720.jpg" bigUrl="images-2014-indien/DSC00141.1920x1080.jpg" rel="day-gallery" description="Fluss" %}
+{% include image.html url="images-2014-indien/DSC00142.1280x720.jpg" bigUrl="images-2014-indien/DSC00142.1920x1080.jpg" rel="day-gallery" description="Tempel" %}
+
+{% include image.html url="images-2014-indien/WP_20140218_12_21_13_Pro.1280x720.jpg" bigUrl="images-2014-indien/WP_20140218_12_21_13_Pro.1920x1080.jpg" rel="day-gallery" description="Tempel" %}
+
+{% include image.html url="images-2014-indien/WP_20140218_11_58_36_Pro.1280x720.jpg" bigUrl="images-2014-indien/WP_20140218_11_58_36_Pro.1920x1080.jpg" rel="day-gallery" description="Elefant im Tempel" %}
+
+{% include image.html url="images-2014-indien/WP_20140218_12_30_42_Pro.1280x720.jpg" bigUrl="images-2014-indien/WP_20140218_12_30_42_Pro.1920x1080.jpg" rel="day-gallery" description="Wir" %}
+
+{% include image.html url="images-2014-indien/WP_20140218_12_44_36_Pro.1280x720.jpg" bigUrl="images-2014-indien/WP_20140218_12_44_36_Pro.1920x1080.jpg" rel="day-gallery" description="Wir" %}
+
+{% include image.html url="images-2014-indien/WP_20140218_13_02_37_Pro.1280x720.jpg" bigUrl="images-2014-indien/WP_20140218_13_02_37_Pro.1920x1080.jpg" rel="day-gallery" description="Wir" %}
+
+{% include image.html url="images-2014-indien/WP_20140218_13_07_14_Pro.1280x720.jpg" bigUrl="images-2014-indien/WP_20140218_13_07_14_Pro.1920x1080.jpg" rel="day-gallery" description="Tempel" %}
 
 Hübsch war er und der Guide hatte uns einige gesellschaftliche (z.B. was das Kopfnicken bedeutet – Kopfwackeln = OK - oder wie kompliziert man in Indien heiratet) sowie religöse Dinge erklärt. Alles in Allem: Lustiger Typ und ein netter Tempel in der „typischen“ Ausprägung mit 4 Eingängen und bunten Figuren. Viele Erklärungen zu den unterschiedlichen Figuren und Bemalungen folgten. Danach verabschiedeten wir uns und sind zu unserem eigentlichen Ziel Tanjore weitergefahren. Die Entfernungen zwischen den Stops waren zum Teil nicht so groß, aber durch die Straßenverhältnisse dauerte es zum Teil ewig von A nach B zu kommen.
 
 ## Tanjore
 
+{% include image.html url="images-2014-indien/WP_20140218_15_48_50_Pro.1280x720.jpg" bigUrl="images-2014-indien/WP_20140218_15_48_50_Pro.1920x1080.jpg" rel="day-gallery" description="Tanjore" %}
+
 Angekommen in Tanjore - was für eine wuslige Stadt. Und es war erst gegen 15 Uhr. Wenn nicht früher. Und das Hotel war mitten in der Stadt. Kein Pool. Aber ein nettes Zimmer hatten wir. Ein kühles, kleines, in blau gehaltenes Zimmer erwartete uns, mit hübschen LED Lichtern bestückt – eigentlich gar nicht so schlecht. Der nächste Programmpunkt war erst am nächsten Tag, dummerweise hatten wir noch massig Zeit und wir hatten uns schon etwas geärgert nicht auf den "Rock Fort" geklettert zu sein, aber naja...
+
+{% include image.html url="images-2014-indien/WP_20140218_16_01_39_Pro.1280x720.jpg" bigUrl="images-2014-indien/WP_20140218_16_01_39_Pro.1920x1080.jpg" rel="day-gallery" description="Tanjore" %}
 
 Also raus aus dem Zimmer und rein ins Gewühl. Definitiv sehr viele Menschen und – wwhaaa – was für ein Verkehr. Mit eingigen Umwegen hatten wir dann einen kleinen Gemüsemarkt gefunden, aber ansonsten hatte die Stadt keinen richtigen Charm. Dazu kommt natürlich noch, dass die „Hauptaktraktionen“ (Tempel, Palast) am nächsten Tag dran waren. Nach etwas planlosen Hin- und Hergelaufe, haben wir nach einem kurzen Hotelaufenthalt uns entschlossen auswärts zu essen. Kann ja nicht so schwer sein, so dachten wir jedenfalls.
 
