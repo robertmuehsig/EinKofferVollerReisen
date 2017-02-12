@@ -15,7 +15,7 @@ navigation:
     title-small: "20. Februar"
     title-bold: "Pondicherry & Chennai"
     title-full: "20. Februar: Pondicherry & Chennai"
-    image: "images-2015-chile/chile-2015-01-12_00002-965x350.jpg"
+    image: "images-2014-indien/DSC00267.965x350.jpg"
     link: "/2014-indien/pondicherry-und-nach-chennai"
 ---
 
