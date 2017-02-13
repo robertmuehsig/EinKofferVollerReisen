@@ -15,7 +15,7 @@ navigation:
     title-small: "21. Februar"
     title-bold: "Mahabalipuram"
     title-full: "21. Februar: Mahabalipuram"
-    image: "images-2015-chile/chile-2015-01-12_00002-965x350.jpg"
+    image: "images-2014-indien/WP_20140221_10_25_09_Pro.965x350.jpg"
     link: "/2014-indien/mahabalipuram"
 ---
 
