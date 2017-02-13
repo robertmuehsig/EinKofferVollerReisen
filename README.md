@@ -19,6 +19,8 @@ Used Version: 4 April 15
 Image Resizing Tool:
 - ImageMagick
 
+Be aware: Vertical Image Orientation Problem can be fixed with IrfanView.
+
 For resizing - there is a batch file under __tooling__.
 
 Beware: Vertical Images are kinda stupid. Workaround was via IrfanView (Disable Orientation View from EXIF and rotate it there...)
