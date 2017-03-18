@@ -7,8 +7,8 @@ header-image: "images-2015-chile/chile-2015-01-12_00025-1280x720.jpg"
 navigation:
   previous:
     title-small: "25. Februar"
-    title-bold: "Nach Ooty"
-    title-full: "25. Februar: Nach Ooty"
+    title-bold: "Myore Palast & nach Ooty"
+    title-full: "25. Februar: Mysore Palast & nach Ooty"
     image: "images-2015-chile/chile-2015-01-12_00002-965x350.jpg"
     link: "/2014-indien/nach-ooty"
   next:
