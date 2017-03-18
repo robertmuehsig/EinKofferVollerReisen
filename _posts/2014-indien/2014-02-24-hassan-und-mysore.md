@@ -3,13 +3,13 @@ layout: post
 title: "Hassan und Mysore"
 subtitle: "Tempel von Hassan und Erkundung Mysore"
 category: 2014-Indien
-header-image: "images-2015-chile/chile-2015-01-12_00025-1280x720.jpg"
+header-image: "images-2014-indien/DSC00478.1280x720.jpg"
 navigation:
   previous:
     title-small: "23. Februar"
     title-bold: "Zugfahrt Bangalore nach Hassan"
     title-full: "23. Februar: Bangalore & Hassan"
-    image: "images-2015-chile/chile-2015-01-12_00002-965x350.jpg"
+    image: "images-2014-indien/WP_20140223_10_48_09_Pro.965x350.jpg"
     link: "/2014-indien/zugfahrt-bangalore-nach-hassan"
   next:
     title-small: "25. Februar"
