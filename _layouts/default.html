@@ -121,9 +121,10 @@
 		<script src="{{ site.production_url_theme }}/js/jquery.ketchup.all.min.js"></script>
 		<script src="{{ site.production_url }}/assets/js/jquery.swipebox.min.js"></script>
 		<script src="{{ site.production_url }}/assets/js/jquery.lazyloadxt.min.js"></script>
-		<!--[if IE]>
-  		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]-->
+		
+		<script src="{{BASE_PATH}}/assets/js/cookies-eu-banner.min.js"></script>
+		
+
 		<script>
 			var index = 1;
 			var t;
@@ -158,6 +159,7 @@
 		<a href="#" class="back-to-top">Top</a>
 
 		<script>
+		  new CookiesEuBanner(function(){
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -166,6 +168,8 @@
 			ga('create', 'UA-1562299-5', 'auto');
 			ga('set', 'anonymizeIp', true);
 			ga('send', 'pageview');
+		});
+	
 		</script>
 	</body>
 </html>
