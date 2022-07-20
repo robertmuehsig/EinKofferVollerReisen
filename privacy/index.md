@@ -13,9 +13,9 @@ The information on the EinKofferVollerReisen.de site is not guaranteed to be acc
 ## Contact
 
 <p>Robert Mühsig<br>
-Im Espel 16<br>
-9545 Wängi<br>
-Schweiz<br>
+Grossenhainer Str. 6<br>
+01612 Nünchritz<br>
+Deutschland<br>
 robert(dot)muehsig(at)codeinside(dot)eu</p>
 
 ## Privacy notes (TL;DR-version):
